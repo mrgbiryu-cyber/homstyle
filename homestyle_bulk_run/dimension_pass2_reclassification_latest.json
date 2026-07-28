@@ -1,0 +1,45 @@
+{
+  "snapshot_id": "dimension-pass2-reclassification-v1-20260723",
+  "classified_at": "2026-07-23T12:25:28+09:00",
+  "taxonomy_version": "dimension-pass2-reclassification-v1.0",
+  "scope_products": 2455,
+  "observation_classified_products": 2248,
+  "pattern_classified_products": 1879,
+  "requeue_products": 576,
+  "resolution_state": {
+    "NO_OBSERVATION_REQUEUE": 207,
+    "VALUE_RECLASSIFICATION_REQUIRED": 369,
+    "PATTERN_CLASSIFIED_REVIEW": 1143,
+    "DIRECT_WDH_CANDIDATE": 736
+  },
+  "requeue_pattern": {
+    "N05_PASS1_NO_SIZE_SIGNAL": 136,
+    "V02_3D_TRIPLE_WITH_UNIT": 152,
+    "V05_3D_TRIPLE_UNIT_REQUIRED": 71,
+    "V04_3D_PAIR_WITH_UNIT": 5,
+    "N04_NO_DETAIL_IMAGE": 9,
+    "N02_PASS2_NO_PATTERN": 14,
+    "V07_3D_PAIR_UNIT_REQUIRED": 6,
+    "V03_2D_TRIPLE_WITH_UNIT": 49,
+    "V01_2D_PAIR_WITH_UNIT": 68,
+    "N01_PASS2_IMAGE_FETCH_RETRY": 46,
+    "V06_2D_TRIPLE_UNIT_REQUIRED": 18,
+    "N03_PASS1_SOURCE_RETRY": 2
+  },
+  "requeue_quality_flag": {
+    "NO_OBSERVATION": 207,
+    "BASIC_RANGE_PLAUSIBLE": 259,
+    "UNIT_REQUIRED": 90,
+    "OCR_DIGIT_JOIN_REVIEW": 5,
+    "PHYSICAL_RANGE_REVIEW": 15
+  },
+  "table": "stg_dimension_pass2_reclassification",
+  "views": [
+    "vw_dimension_pass2_observed_classified_current",
+    "vw_dimension_pass2_pattern_classified_current",
+    "vw_dimension_pass2_value_reclassification_current",
+    "vw_dimension_pass2_unclassified_current",
+    "vw_dimension_pass2_requeue_current",
+    "vw_dimension_pass2_requeue_summary"
+  ]
+}

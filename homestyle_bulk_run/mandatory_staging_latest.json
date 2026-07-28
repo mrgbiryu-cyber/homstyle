@@ -1,0 +1,55 @@
+{
+  "database": "C:\\Users\\A85378\\Desktop\\project\\homestyle\\homestyle_bulk_run\\homestyle_bulk.sqlite",
+  "table": "stg_mandatory_pass",
+  "snapshot_id": "2026-07-23T175347_0900",
+  "assessed_at": "2026-07-23T17:53:47+09:00",
+  "rows": 9358,
+  "status_counts": {
+    "PASS": 7372,
+    "보강대상": 1986
+  },
+  "pass_rate": 0.7877751656336824,
+  "missing_required_groups": {
+    "색상": 737,
+    "사이즈(W/D/H)": 1632
+  },
+  "views": [
+    "vw_mandatory_pass_current_summary",
+    "vw_mandatory_pass_current_missing"
+  ],
+  "workbook_meta": {
+    "products": 9358,
+    "errors": 0,
+    "fields": 149,
+    "max_images": 18,
+    "max_options": 77,
+    "dimension_rows": 13707,
+    "option_rows": 29566,
+    "dimension_complete": 4152,
+    "dimension_partial": 597,
+    "dimension_missing": 4609,
+    "ocr_added_complete": 359,
+    "ocr_added_partial": 161,
+    "mandatory_pass": 7372,
+    "mandatory_reinforcement": 1986,
+    "mandatory_pass_rate": 0.7877751656336824,
+    "mandatory_missing_fields": {
+      "사이즈(W/D/H)": 1632,
+      "색상": 737
+    },
+    "issue_rows": 553,
+    "dimension_locked_resolved": 5713,
+    "dimension_comparison_provided": 3411,
+    "dimension_human_review_required": 0,
+    "dimension_ocr_remaining": 234,
+    "dimension_remaining_reasons": {
+      "PASS1_NO_SIZE_SIGNAL": 152,
+      "HEADING_NOT_LOCATED": 41,
+      "TARGET_REGION_OCR_NO_VALUE": 23,
+      "NO_DETAIL_IMAGES": 12,
+      "PASS1_OCR_INCOMPLETE": 4,
+      "CANDIDATES_ALL_EXCLUDED_OR_INVALID": 2
+    }
+  },
+  "excel_written": false
+}

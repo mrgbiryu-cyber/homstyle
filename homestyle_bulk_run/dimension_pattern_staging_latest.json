@@ -1,0 +1,56 @@
+{
+  "database": "C:\\Users\\A85378\\Desktop\\project\\homestyle\\homestyle_bulk_run\\homestyle_bulk.sqlite",
+  "reference_table": "ref_dimension_notation_type",
+  "staging_table": "stg_dimension_pattern",
+  "snapshot_id": "2026-07-22T184617_0900",
+  "assessed_at": "2026-07-22T18:46:17+09:00",
+  "parser_version": "dimension-pattern-v1; target-vs-notation-separated; L-deferred",
+  "products": 5206,
+  "type_counts": {
+    "NO_CONFIRMED_PATTERN": 4432,
+    "PARTIAL_W_D": 422,
+    "W_D_PAIR": 119,
+    "W_L_H_EXPLICIT": 113,
+    "W_H_PAIR": 78,
+    "PARTIAL_W_H": 18,
+    "L_W_H_EXPLICIT": 10,
+    "DIAMETER_H": 6,
+    "L_D_H_EXPLICIT": 4,
+    "PARTIAL_D_H": 4
+  },
+  "reinforcement_type_counts": {
+    "NO_CONFIRMED_PATTERN": 4432,
+    "PARTIAL_W_D": 422,
+    "W_D_PAIR": 119,
+    "W_L_H_EXPLICIT": 113,
+    "W_H_PAIR": 78,
+    "PARTIAL_W_H": 18,
+    "L_W_H_EXPLICIT": 10,
+    "DIAMETER_H": 6,
+    "L_D_H_EXPLICIT": 4,
+    "PARTIAL_D_H": 4
+  },
+  "target_type_counts": {
+    "PRODUCT_EXTERIOR": 4609,
+    "PRODUCT_OPTION": 552,
+    "PRODUCT_COMPONENT": 45
+  },
+  "mapping_status_counts": {
+    "NO_SIGNAL": 4432,
+    "MISSING_AXIS": 444,
+    "INCOMPLETE_OR_NA_POLICY": 197,
+    "INTERPRETATION_REQUIRED": 127,
+    "CATEGORY_POLICY_REQUIRED": 6
+  },
+  "views": [
+    "vw_dimension_pattern_current_summary",
+    "vw_dimension_reinforcement_with_pattern"
+  ],
+  "excel_written": false,
+  "notes": [
+    "요청1_대표 규격 대상은 제품/옵션/구성품 대상 구분으로 유지했다.",
+    "규격 표기 타입과 W/D/H 축 매핑 상태를 별도 필드로 추가했다.",
+    "L 포함 타입은 INTERPRETATION_REQUIRED이며 자동 치환하지 않는다.",
+    "현재 스냅샷은 규격 보강대상 5,206개를 분류한다."
+  ]
+}

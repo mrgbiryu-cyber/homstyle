@@ -1,0 +1,382 @@
+{
+  "database": "C:\\Users\\A85378\\Desktop\\project\\homestyle\\homestyle_bulk_run\\homestyle_bulk.sqlite",
+  "table": "stg_reinforcement_backlog",
+  "snapshot_id": "2026-07-22T183807_0900",
+  "assessed_at": "2026-07-22T18:38:07+09:00",
+  "parser_version": "reinforcement-backlog-v1; color-source-depth; dimension-staging; L-deferred",
+  "reinforcement_products": 5401,
+  "backlog_rows": 5943,
+  "missing_combination_counts": {
+    "색상": 195,
+    "규격(W/D/H)": 4664,
+    "색상+규격(W/D/H)": 542
+  },
+  "cause_counts": [
+    {
+      "missing_field": "규격(W/D/H)",
+      "cause_code": "DIAMETER_AXIS_MAPPING_REQUIRED",
+      "product_count": 6
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "cause_code": "FLAT_PRODUCT_AXIS_POLICY_REQUIRED",
+      "product_count": 197
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "cause_code": "FLAT_PRODUCT_PARTIAL_DIMENSION",
+      "product_count": 323
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "cause_code": "L_NOTATION_INTERPRETATION_REQUIRED",
+      "product_count": 127
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "cause_code": "NO_PARSED_DIMENSION",
+      "product_count": 4432
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "cause_code": "PARTIAL_DIMENSION_AXES",
+      "product_count": 121
+    },
+    {
+      "missing_field": "색상",
+      "cause_code": "NON_COLOR_OPTION_OCR_REMAINING",
+      "product_count": 21
+    },
+    {
+      "missing_field": "색상",
+      "cause_code": "NON_COLOR_OPTION_VISUAL_INFERENCE",
+      "product_count": 4
+    },
+    {
+      "missing_field": "색상",
+      "cause_code": "NO_COLOR_OPTION_OCR_REMAINING",
+      "product_count": 213
+    },
+    {
+      "missing_field": "색상",
+      "cause_code": "NO_COLOR_OPTION_VISUAL_INFERENCE",
+      "product_count": 145
+    },
+    {
+      "missing_field": "색상",
+      "cause_code": "NO_COLOR_SOURCE",
+      "product_count": 2
+    },
+    {
+      "missing_field": "색상",
+      "cause_code": "OCR_COLOR_LABEL_AVAILABLE",
+      "product_count": 20
+    },
+    {
+      "missing_field": "색상",
+      "cause_code": "OPTION_COLOR_DICTIONARY_GAP",
+      "product_count": 5
+    },
+    {
+      "missing_field": "색상",
+      "cause_code": "OPTION_COLOR_MEANING_UNRESOLVED",
+      "product_count": 2
+    },
+    {
+      "missing_field": "색상",
+      "cause_code": "OPTION_COMPOSITE_COLOR_PARSE",
+      "product_count": 71
+    },
+    {
+      "missing_field": "색상",
+      "cause_code": "OPTION_FINISH_AS_COLOR_REVIEW",
+      "product_count": 27
+    },
+    {
+      "missing_field": "색상",
+      "cause_code": "PRODUCT_NAME_COLOR_AVAILABLE",
+      "product_count": 227
+    }
+  ],
+  "automation_counts": [
+    {
+      "missing_field": "규격(W/D/H)",
+      "automation_level": "AUTO_REVIEW",
+      "product_count": 6
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "automation_level": "MANUAL_SOURCE",
+      "product_count": 9
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "automation_level": "OCR_ENGINE_REVIEW",
+      "product_count": 251
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "automation_level": "OCR_REQUIRED",
+      "product_count": 3733
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "automation_level": "OCR_RETRY",
+      "product_count": 442
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "automation_level": "OCR_REVIEW",
+      "product_count": 118
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "automation_level": "POLICY_REQUIRED",
+      "product_count": 520
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "automation_level": "SEMANTIC_REVIEW",
+      "product_count": 127
+    },
+    {
+      "missing_field": "색상",
+      "automation_level": "AUTO_HIGH",
+      "product_count": 5
+    },
+    {
+      "missing_field": "색상",
+      "automation_level": "AUTO_REVIEW",
+      "product_count": 325
+    },
+    {
+      "missing_field": "색상",
+      "automation_level": "MANUAL_SOURCE",
+      "product_count": 2
+    },
+    {
+      "missing_field": "색상",
+      "automation_level": "OCR_REQUIRED",
+      "product_count": 234
+    },
+    {
+      "missing_field": "색상",
+      "automation_level": "OCR_REVIEW",
+      "product_count": 20
+    },
+    {
+      "missing_field": "색상",
+      "automation_level": "SEMANTIC_REVIEW",
+      "product_count": 2
+    },
+    {
+      "missing_field": "색상",
+      "automation_level": "VISION_REVIEW",
+      "product_count": 149
+    }
+  ],
+  "summary": [
+    {
+      "missing_field": "규격(W/D/H)",
+      "cause_code": "NO_PARSED_DIMENSION",
+      "cause_label": "API/HTML/현재 OCR에서 유효한 W/D/H 숫자 조합을 파싱하지 못함",
+      "automation_level": "OCR_REQUIRED",
+      "confidence": "UNKNOWN",
+      "product_count": 3733
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "cause_code": "NO_PARSED_DIMENSION",
+      "cause_label": "API/HTML/현재 OCR에서 유효한 W/D/H 숫자 조합을 파싱하지 못함",
+      "automation_level": "OCR_RETRY",
+      "confidence": "UNKNOWN",
+      "product_count": 439
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "cause_code": "FLAT_PRODUCT_PARTIAL_DIMENSION",
+      "cause_label": "평면형 상품에서 2축만 확보되어 현행 3축 필수 기준을 충족하지 못함",
+      "automation_level": "POLICY_REQUIRED",
+      "confidence": "UNKNOWN",
+      "product_count": 323
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "cause_code": "NO_PARSED_DIMENSION",
+      "cause_label": "API/HTML/현재 OCR에서 유효한 W/D/H 숫자 조합을 파싱하지 못함",
+      "automation_level": "OCR_ENGINE_REVIEW",
+      "confidence": "UNKNOWN",
+      "product_count": 251
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "cause_code": "FLAT_PRODUCT_AXIS_POLICY_REQUIRED",
+      "cause_label": "러그/액자/포스터 등 평면형 상품은 2축 규격만 있고 세 번째 축 정책이 없음",
+      "automation_level": "POLICY_REQUIRED",
+      "confidence": "HIGH",
+      "product_count": 197
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "cause_code": "L_NOTATION_INTERPRETATION_REQUIRED",
+      "cause_label": "L/W/H 표기가 있으나 L의 의미를 확인하지 않고 W로 치환할 수 없음",
+      "automation_level": "SEMANTIC_REVIEW",
+      "confidence": "UNKNOWN",
+      "product_count": 127
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "cause_code": "PARTIAL_DIMENSION_AXES",
+      "cause_label": "규격 일부 축만 확보됨(누락: H)",
+      "automation_level": "OCR_REVIEW",
+      "confidence": "UNKNOWN",
+      "product_count": 103
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "cause_code": "PARTIAL_DIMENSION_AXES",
+      "cause_label": "규격 일부 축만 확보됨(누락: D)",
+      "automation_level": "OCR_REVIEW",
+      "confidence": "UNKNOWN",
+      "product_count": 11
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "cause_code": "NO_PARSED_DIMENSION",
+      "cause_label": "API/HTML/현재 OCR에서 유효한 W/D/H 숫자 조합을 파싱하지 못함",
+      "automation_level": "MANUAL_SOURCE",
+      "confidence": "UNKNOWN",
+      "product_count": 9
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "cause_code": "DIAMETER_AXIS_MAPPING_REQUIRED",
+      "cause_label": "Ø/Φ/직경 표기가 있으나 원형 제품의 W/D 축 매핑 규칙이 없음",
+      "automation_level": "AUTO_REVIEW",
+      "confidence": "UNKNOWN",
+      "product_count": 6
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "cause_code": "PARTIAL_DIMENSION_AXES",
+      "cause_label": "규격 일부 축만 확보됨(누락: W)",
+      "automation_level": "OCR_REVIEW",
+      "confidence": "UNKNOWN",
+      "product_count": 4
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "cause_code": "PARTIAL_DIMENSION_AXES",
+      "cause_label": "규격 일부 축만 확보됨(누락: D)",
+      "automation_level": "OCR_RETRY",
+      "confidence": "UNKNOWN",
+      "product_count": 2
+    },
+    {
+      "missing_field": "규격(W/D/H)",
+      "cause_code": "PARTIAL_DIMENSION_AXES",
+      "cause_label": "규격 일부 축만 확보됨(누락: H)",
+      "automation_level": "OCR_RETRY",
+      "confidence": "UNKNOWN",
+      "product_count": 1
+    },
+    {
+      "missing_field": "색상",
+      "cause_code": "PRODUCT_NAME_COLOR_AVAILABLE",
+      "cause_label": "상품명에 색상/마감명이 있으나 색상 필드에 미반영",
+      "automation_level": "AUTO_REVIEW",
+      "confidence": "MEDIUM",
+      "product_count": 227
+    },
+    {
+      "missing_field": "색상",
+      "cause_code": "NO_COLOR_OPTION_OCR_REMAINING",
+      "cause_label": "색상 옵션 자체가 없고 아직 OCR하지 않은 상세 이미지가 있음",
+      "automation_level": "OCR_REQUIRED",
+      "confidence": "UNKNOWN",
+      "product_count": 213
+    },
+    {
+      "missing_field": "색상",
+      "cause_code": "NO_COLOR_OPTION_VISUAL_INFERENCE",
+      "cause_label": "색상 옵션이 없고 텍스트/OCR에도 색상값이 없어 이미지 픽셀 추론이 필요함",
+      "automation_level": "VISION_REVIEW",
+      "confidence": "LOW",
+      "product_count": 145
+    },
+    {
+      "missing_field": "색상",
+      "cause_code": "OPTION_COMPOSITE_COLOR_PARSE",
+      "cause_label": "모델명·사이즈·색상이 한 옵션값에 혼합되어 일부만 색상으로 인식됨",
+      "automation_level": "AUTO_REVIEW",
+      "confidence": "MEDIUM",
+      "product_count": 71
+    },
+    {
+      "missing_field": "색상",
+      "cause_code": "OPTION_FINISH_AS_COLOR_REVIEW",
+      "cause_label": "옵션값에 색상/마감명이 있으나 재질과 색상의 경계 확인이 필요함",
+      "automation_level": "AUTO_REVIEW",
+      "confidence": "MEDIUM",
+      "product_count": 27
+    },
+    {
+      "missing_field": "색상",
+      "cause_code": "NON_COLOR_OPTION_OCR_REMAINING",
+      "cause_label": "옵션은 있으나 색상 옵션으로 판정할 근거가 없고 미처리 상세 이미지가 있음",
+      "automation_level": "OCR_REQUIRED",
+      "confidence": "UNKNOWN",
+      "product_count": 21
+    },
+    {
+      "missing_field": "색상",
+      "cause_code": "OCR_COLOR_LABEL_AVAILABLE",
+      "cause_label": "상세 이미지 OCR에 색상 라벨과 값이 있으나 색상 파서가 없음",
+      "automation_level": "OCR_REVIEW",
+      "confidence": "MEDIUM",
+      "product_count": 20
+    },
+    {
+      "missing_field": "색상",
+      "cause_code": "OPTION_COLOR_DICTIONARY_GAP",
+      "cause_label": "색상 옵션값은 있으나 옵션 제목이 일반명이고 색상 사전이 부족함",
+      "automation_level": "AUTO_HIGH",
+      "confidence": "HIGH",
+      "product_count": 5
+    },
+    {
+      "missing_field": "색상",
+      "cause_code": "NON_COLOR_OPTION_VISUAL_INFERENCE",
+      "cause_label": "옵션은 있으나 색상 근거가 아니며 텍스트/OCR에도 색상값이 없음",
+      "automation_level": "VISION_REVIEW",
+      "confidence": "LOW",
+      "product_count": 4
+    },
+    {
+      "missing_field": "색상",
+      "cause_code": "NO_COLOR_SOURCE",
+      "cause_label": "옵션·고시·HTML·OCR·상세 이미지에서 색상 근거를 찾지 못함",
+      "automation_level": "MANUAL_SOURCE",
+      "confidence": "UNKNOWN",
+      "product_count": 2
+    },
+    {
+      "missing_field": "색상",
+      "cause_code": "OPTION_COLOR_MEANING_UNRESOLVED",
+      "cause_label": "색상 옵션으로 보이지만 장문/외국어 옵션명의 의미를 현재 사전이 해석하지 못함",
+      "automation_level": "SEMANTIC_REVIEW",
+      "confidence": "LOW",
+      "product_count": 2
+    }
+  ],
+  "views": [
+    "vw_reinforcement_backlog_current_summary",
+    "vw_reinforcement_backlog_current_products"
+  ],
+  "excel_written": false,
+  "notes": [
+    "OCR은 이미지 안에 적힌 색상명을 읽는 단계이며, 픽셀 색상 추론은 VISION_REVIEW로 분리했다.",
+    "후보값은 아직 고객용 필드와 필수값 PASS 통계에 적용하지 않았다.",
+    "L 표기는 의미 확인 전 W/D/H에 자동 치환하지 않는다."
+  ]
+}

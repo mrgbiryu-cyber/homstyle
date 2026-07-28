@@ -1,0 +1,54 @@
+{
+  "database": "C:\\Users\\A85378\\Desktop\\project\\homestyle\\homestyle_bulk_run\\homestyle_bulk.sqlite",
+  "table": "stg_dimension_reinforcement",
+  "snapshot_id": "2026-07-22T183752_0900",
+  "assessed_at": "2026-07-22T18:37:52+09:00",
+  "rows": 5206,
+  "current_status_counts": {
+    "미확보": 4609,
+    "부분확보": 597
+  },
+  "suggested_action_counts": {
+    "MANUAL_SOURCE_REQUIRED": 9,
+    "OCR_NEXT_IMAGE": 4226,
+    "OCR_RECHECK_IMAGE": 332,
+    "OCR_URL_RETRY": 442,
+    "OPTION_POLICY_REVIEW": 197
+  },
+  "candidate_rule_counts": {
+    "OPTION_FLAT_WD": 119,
+    "OPTION_FLAT_WH": 78
+  },
+  "views": [
+    "vw_dimension_reinforcement_current_summary",
+    "vw_dimension_reinforcement_option_candidates"
+  ],
+  "workbook_meta": {
+    "products": 9358,
+    "errors": 0,
+    "fields": 143,
+    "max_images": 18,
+    "max_options": 77,
+    "dimension_rows": 13707,
+    "option_rows": 29566,
+    "dimension_complete": 4152,
+    "dimension_partial": 597,
+    "dimension_missing": 4609,
+    "ocr_added_complete": 359,
+    "ocr_added_partial": 161,
+    "mandatory_pass": 3957,
+    "mandatory_reinforcement": 5401,
+    "mandatory_pass_rate": 0.42284676212865996,
+    "mandatory_missing_fields": {
+      "사이즈(W/D/H)": 5206,
+      "색상": 737
+    },
+    "issue_rows": 553
+  },
+  "excel_written": false,
+  "notes": [
+    "후보값은 아직 sources 원천 규격이나 고객용 엑셀에 병합하지 않았다.",
+    "OPTION_POLICY_REVIEW는 카테고리 축/해당없음 정책 확인 후 적용한다.",
+    "표준 침대 사이즈 코드는 실제 브랜드·모델 치수표 없이는 확정하지 않는다."
+  ]
+}

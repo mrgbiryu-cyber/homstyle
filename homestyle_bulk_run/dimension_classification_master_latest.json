@@ -1,0 +1,47 @@
+{
+  "snapshot_id": "dimension-classification-master-v1-20260723",
+  "classified_at": "2026-07-23T12:30:36+09:00",
+  "taxonomy_version": "dimension-classification-master-v1.0",
+  "total_products": 9358,
+  "classification_status": {
+    "COMPLETE": 9151,
+    "REMAINING": 207
+  },
+  "classification_stage": {
+    "BASELINE_WDH_CONFIRMED": 4152,
+    "PRE_PASS2_PATTERN_CLASSIFIED": 2751,
+    "NO_OBSERVATION_REMAINING": 207,
+    "PASS2_OCR_CLASSIFIED": 2248
+  },
+  "classification_complete_rate": 0.9778798888651421,
+  "dimension_value_confirmed_products": 4152,
+  "dimension_resolution_status": {
+    "CONFIRMED_WDH": 4152,
+    "SEMANTIC_PATTERN_REVIEW": 907,
+    "NO_DIMENSION_OBSERVATION": 207,
+    "CURRENT_PARTIAL_REVIEW": 597,
+    "PASS2_VALUE_PATTERN_REVIEW": 369,
+    "PASS2_PATTERN_REVIEW": 1143,
+    "OCR_PARTIAL_AXES_REVIEW": 504,
+    "UNIT_OR_AXIS_INFERENCE_REVIEW": 425,
+    "COMPLETE_CANDIDATE_REVIEW": 318,
+    "DIRECT_WDH_CANDIDATE": 736
+  },
+  "remaining_reason": {
+    "N05_PASS1_NO_SIZE_SIGNAL": 136,
+    "N04_NO_DETAIL_IMAGE": 9,
+    "N02_PASS2_NO_PATTERN": 14,
+    "N01_PASS2_IMAGE_FETCH_RETRY": 46,
+    "N03_PASS1_SOURCE_RETRY": 2
+  },
+  "table": "stg_dimension_classification_master",
+  "views": [
+    "vw_dimension_classification_master_current",
+    "vw_dimension_classification_complete_current",
+    "vw_dimension_classification_remaining_current",
+    "vw_dimension_classification_summary",
+    "vw_dimension_resolution_summary"
+  ],
+  "source_dimension_values_written": false,
+  "excel_written": false
+}

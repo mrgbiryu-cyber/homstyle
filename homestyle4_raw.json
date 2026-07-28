@@ -1,0 +1,2893 @@
+[
+  {
+    "id": "G25070005743",
+    "goodsStatus": 200,
+    "spaceStatus": 404,
+    "packsStatus": 404,
+    "goods": {
+      "timestamp": "2026-07-20T16:23:34.9177720",
+      "status": 200,
+      "message": "OK",
+      "data": {
+        "images": [
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "1",
+            "dclYn": false,
+            "imageUrl": "/goods/org/073251020000078073.jpg?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "[by CASAMIA] 벨로씨 레보르 천연면피 가죽 소파 4인＋스툴 메인이미지 1"
+          },
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "2",
+            "dclYn": false,
+            "imageUrl": "/goods/org/073250729000029073.jpg?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "[by CASAMIA] 벨로씨 레보르 천연면피 가죽 소파 4인＋스툴 메인이미지 2"
+          },
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "3",
+            "dclYn": false,
+            "imageUrl": "/goods/org/076250729000029076.jpg?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "[by CASAMIA] 벨로씨 레보르 천연면피 가죽 소파 4인＋스툴 메인이미지 3"
+          },
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "4",
+            "dclYn": false,
+            "imageUrl": "/goods/org/074250729000029074.jpg?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "[by CASAMIA] 벨로씨 레보르 천연면피 가죽 소파 4인＋스툴 메인이미지 4"
+          },
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "5",
+            "dclYn": false,
+            "imageUrl": "/goods/org/076251020000078076.jpg?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "[by CASAMIA] 벨로씨 레보르 천연면피 가죽 소파 4인＋스툴 메인이미지 5"
+          },
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "6",
+            "dclYn": false,
+            "imageUrl": "/goods/org/075251020000078075.jpg?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "[by CASAMIA] 벨로씨 레보르 천연면피 가죽 소파 4인＋스툴 메인이미지 6"
+          },
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "7",
+            "dclYn": false,
+            "imageUrl": "/goods/org/074251020000078074.jpg?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "[by CASAMIA] 벨로씨 레보르 천연면피 가죽 소파 4인＋스툴 메인이미지 7"
+          },
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "8",
+            "dclYn": false,
+            "imageUrl": "/goods/org/075250729000029075.jpg?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "[by CASAMIA] 벨로씨 레보르 천연면피 가죽 소파 4인＋스툴 메인이미지 8"
+          }
+        ],
+        "timeSale": {
+          "timeSaleOpenDate": "2026-07-19 10:00:00",
+          "timeSaleDeadline": "2026-07-21 23:59:59",
+          "timeSaleQuantityLeft": "110"
+        },
+        "priceTooltip": {
+          "title": "쿠폰 할인가",
+          "description": "타임세일할인, 쿠폰할인이 적용된 가격입니다.\n타임세일 상품은 한정시간 동안 판매하는 제품으로 재고 소진 시 종료되며 당사의 사정에 따라 별도 고지 없이 변경 또는 중지될 수 있습니다.\n다운받지 않은 쿠폰은 [쿠폰받기] 버튼을 통해 모두 다운 받아주세요."
+        },
+        "priceMainTooltip": null,
+        "priceSubTooltip": {
+          "title": "쿠폰 할인가",
+          "description": "타임세일할인, 쿠폰할인이 적용된 가격입니다.\n타임세일 상품은 한정시간 동안 판매하는 제품으로 재고 소진 시 종료되며 당사의 사정에 따라 별도 고지 없이 변경 또는 중지될 수 있습니다.\n다운받지 않은 쿠폰은 [쿠폰받기] 버튼을 통해 모두 다운 받아주세요."
+        },
+        "ordApplyStartDate": null,
+        "ordApplyEndDate": null,
+        "purchaseOptions": [
+          {
+            "items": [
+              {
+                "name": "카멜브라운",
+                "imageUrl": null
+              },
+              {
+                "name": "크림아이보리",
+                "imageUrl": null
+              }
+            ],
+            "title": "옵션"
+          }
+        ],
+        "purchaseOptionsPrice": [
+          {
+            "name": "카멜브라운",
+            "minSalePrice": 1420000,
+            "maxSalePrice": 0
+          },
+          {
+            "name": "크림아이보리",
+            "minSalePrice": 1420000,
+            "maxSalePrice": 0
+          }
+        ],
+        "productStock": [
+          {
+            "salePrice": 1420000,
+            "discountPrice": 1278000,
+            "optionId": "10003",
+            "optionName": "카멜브라운",
+            "stock": "68",
+            "estimatedDeliveryDateComment": "",
+            "estimatedDeliveryDateOptionComment": ""
+          },
+          {
+            "salePrice": 1420000,
+            "discountPrice": 1278000,
+            "optionId": "10004",
+            "optionName": "크림아이보리",
+            "stock": "42",
+            "estimatedDeliveryDateComment": "",
+            "estimatedDeliveryDateOptionComment": ""
+          }
+        ],
+        "deliveryInfo": {
+          "tooltip": "제공업체, 택배사 사정으로 실제 도착일은 예측과 다를 수 있습니다. \n주말, 공휴일을 제외한 영업일(평일) 기준입니다.",
+          "hasRegionalAdditionalFee": true,
+          "hasRegionalAdditionalTxt": null,
+          "deliveryDivComment": "설치상품",
+          "parcelCommCd": "99",
+          "deliveryDiviCd": "20",
+          "typeDescription": "업체배송",
+          "estimatedDeliveryDateComment": "08/10(월) 이내 도착 예정",
+          "reservationDeadlineComment": null,
+          "notice": "해당 상품은 업체에서 직접 방문하여 조립/설치 하는 상품으로, 설치 완료 후에는 단순 변심으로 인한 교환 및 반품이 불가합니다. 제품 수령 후 반드시 설치 및 사용 전에 상품의 상태를 확인해 주세요.",
+          "fee": "80,000원 (착불)",
+          "deliveryReadTimeCode": "",
+          "reservationDescription": "",
+          "hasInstallationFee": true,
+          "hasInstallationTxt": null,
+          "additionalFee": null,
+          "additionalInfo": null
+        },
+        "officialStore": null,
+        "popularProducts": [
+          {
+            "salePossQty": "110",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "착불 80,000",
+              "hasInstallationFee": true,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G25070005743",
+            "productName": "[LG 구매혜택 상품권 5만증정] [by CASAMIA] 벨로씨 레보르 천연면피 가죽 소파 4인＋스툴",
+            "status": "40",
+            "imageUrl": "/goods/org/073251020000078073.jpg",
+            "imageAlt": null,
+            "brandId": "2500000123",
+            "brandName": "까사미아",
+            "isTimeSale": true,
+            "hasCoupon": true,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 1278000,
+              "immediateTitle": "타임세일 할인",
+              "immediateDiscountPrice": 428000,
+              "couponTitle": "쿠폰 할인 10%",
+              "couponDiscountPrice": 142000,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": "결제일할인 8%",
+              "cardDiscountPrice": 102200,
+              "cpnBuyMaxQty": 100,
+              "bestPrice": 1175800,
+              "originalPrice": 1848000,
+              "currentPrice": 1278000,
+              "discountRate": 30
+            },
+            "dispCtgNo": "2506000011",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "27947",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": false
+            },
+            "productId": "G25070000648",
+            "productName": "알로소 보눔 3인소파 가죽소파 (라운지형, 모듈소파)",
+            "status": "40",
+            "imageUrl": "/goods/org/458260410000193458.jpg",
+            "imageAlt": null,
+            "brandId": "2500000364",
+            "brandName": "알로소",
+            "isTimeSale": false,
+            "hasCoupon": true,
+            "isCmbnDc": true,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 2746300,
+              "immediateTitle": "즉시할인",
+              "immediateDiscountPrice": 538500,
+              "couponTitle": "쿠폰 할인 10%",
+              "couponDiscountPrice": 305200,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": "결제일할인 8%",
+              "cardDiscountPrice": 219700,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 2526600,
+              "originalPrice": 3590000,
+              "currentPrice": 2746300,
+              "discountRate": 23
+            },
+            "dispCtgNo": "2506000011",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "151",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": false
+            },
+            "productId": "G25070004687",
+            "productName": "옴므 1인 리클라이너_라이트그레이",
+            "status": "40",
+            "imageUrl": "/goods/org/198250729000023198.jpg",
+            "imageAlt": null,
+            "brandId": "2500000123",
+            "brandName": "까사미아",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": true,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 572000,
+              "immediateTitle": "즉시할인",
+              "immediateDiscountPrice": 143000,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": "결제일할인 8%",
+              "cardDiscountPrice": 45700,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 526300,
+              "originalPrice": 715000,
+              "currentPrice": 572000,
+              "discountRate": 20
+            },
+            "dispCtgNo": "2506000011",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "605",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": false
+            },
+            "productId": "G25070004689",
+            "productName": "옴므 1인 리클라이너_브라운",
+            "status": "40",
+            "imageUrl": "/goods/org/210250729000023210.jpg",
+            "imageAlt": null,
+            "brandId": "2500000123",
+            "brandName": "까사미아",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": true,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 572000,
+              "immediateTitle": "즉시할인",
+              "immediateDiscountPrice": 143000,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": "결제일할인 8%",
+              "cardDiscountPrice": 45700,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 526300,
+              "originalPrice": 715000,
+              "currentPrice": 572000,
+              "discountRate": 20
+            },
+            "dispCtgNo": "2506000011",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "994",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": false
+            },
+            "productId": "G25090019329",
+            "productName": "Magic Signature(매직 시그니처) / 팔로마 / 샌드",
+            "status": "40",
+            "imageUrl": "/goods/org/628/251024000089628.jpg",
+            "imageAlt": null,
+            "brandId": "2500000739",
+            "brandName": "스트레스리스",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 4317300,
+              "immediateTitle": "즉시할인",
+              "immediateDiscountPrice": 947700,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": "결제일할인 8%",
+              "cardDiscountPrice": 345300,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 3972000,
+              "originalPrice": 5265000,
+              "currentPrice": 4317300,
+              "discountRate": 18
+            },
+            "dispCtgNo": "2506000011",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "51942",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": false
+            },
+            "productId": "G25070001141",
+            "productName": "알로소 케렌시아 4인소파 패브릭소파 (3모듈라운지)",
+            "status": "40",
+            "imageUrl": "/goods/org/891260327000184891.jpg",
+            "imageAlt": null,
+            "brandId": "2500000364",
+            "brandName": "알로소",
+            "isTimeSale": false,
+            "hasCoupon": true,
+            "isCmbnDc": true,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 3572500,
+              "immediateTitle": "즉시할인",
+              "immediateDiscountPrice": 700500,
+              "couponTitle": "쿠폰 할인 10%",
+              "couponDiscountPrice": 397000,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": "결제일할인 8%",
+              "cardDiscountPrice": 285800,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 3286700,
+              "originalPrice": 4670000,
+              "currentPrice": 3572500,
+              "discountRate": 23
+            },
+            "dispCtgNo": "2506000011",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "13983",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": false
+            },
+            "productId": "G25100020836",
+            "productName": "알로소 사티모션 3인소파 가죽소파",
+            "status": "40",
+            "imageUrl": "/goods/org/195260311000175195.jpg",
+            "imageAlt": null,
+            "brandId": "2500000364",
+            "brandName": "알로소",
+            "isTimeSale": false,
+            "hasCoupon": true,
+            "isCmbnDc": true,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 4268700,
+              "immediateTitle": "즉시할인",
+              "immediateDiscountPrice": 837000,
+              "couponTitle": "쿠폰 할인 10%",
+              "couponDiscountPrice": 474300,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": "결제일할인 8%",
+              "cardDiscountPrice": 341400,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 3927300,
+              "originalPrice": 5580000,
+              "currentPrice": 4268700,
+              "discountRate": 23
+            },
+            "dispCtgNo": "2506000011",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "13971",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": false
+            },
+            "productId": "G25100021283",
+            "productName": "알로소 사티모션 1인소파 가죽소파 (전동 리클라이너)",
+            "status": "40",
+            "imageUrl": "/goods/org/846260406000189846.jpg",
+            "imageAlt": null,
+            "brandId": "2500000364",
+            "brandName": "알로소",
+            "isTimeSale": false,
+            "hasCoupon": true,
+            "isCmbnDc": true,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 2363800,
+              "immediateTitle": "즉시할인",
+              "immediateDiscountPrice": 463500,
+              "couponTitle": "쿠폰 할인 10%",
+              "couponDiscountPrice": 262700,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": "결제일할인 8%",
+              "cardDiscountPrice": 189100,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 2174700,
+              "originalPrice": 3090000,
+              "currentPrice": 2363800,
+              "discountRate": 23
+            },
+            "dispCtgNo": "2506000011",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "21",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": false
+            },
+            "productId": "G25070004819",
+            "productName": "린츠 4인소파_아이보리",
+            "status": "40",
+            "imageUrl": "/goods/org/893250729000023893.jpg",
+            "imageAlt": null,
+            "brandId": "2500000123",
+            "brandName": "까사미아",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 1296000,
+              "immediateTitle": "즉시할인",
+              "immediateDiscountPrice": 864000,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": "결제일할인 8%",
+              "cardDiscountPrice": 103600,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 1192400,
+              "originalPrice": 2160000,
+              "currentPrice": 1296000,
+              "discountRate": 40
+            },
+            "dispCtgNo": "2506000011",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "998",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G26060043563",
+            "productName": "로이스 천연면피가죽 3인 소파 (라이트블루)",
+            "status": "40",
+            "imageUrl": "/goods/org/486260611000230486.jpg",
+            "imageAlt": null,
+            "brandId": "2500000109",
+            "brandName": "모던하우스",
+            "isTimeSale": false,
+            "hasCoupon": true,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 719100,
+              "immediateTitle": null,
+              "immediateDiscountPrice": 0,
+              "couponTitle": "쿠폰 할인 10%",
+              "couponDiscountPrice": 79900,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": "결제일할인 8%",
+              "cardDiscountPrice": 57500,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 661600,
+              "originalPrice": 799000,
+              "currentPrice": 719100,
+              "discountRate": 10
+            },
+            "dispCtgNo": "2506000011",
+            "isOnlyIcon": false
+          }
+        ],
+        "goodsCombinationDcInfo": null,
+        "productId": "G25070005743",
+        "productName": "[LG 구매혜택 상품권 5만증정] [by CASAMIA] 벨로씨 레보르 천연면피 가죽 소파 4인＋스툴",
+        "brandId": "2500000123",
+        "brandName": "까사미아",
+        "status": "ON_SALE",
+        "wishId": null,
+        "isWish": false,
+        "reviewCount": 33,
+        "score": 4.5,
+        "maxPurchaseQuantity": 0,
+        "minPurchaseQuantity": 1,
+        "ordPossType": "",
+        "registeredDate": "2025-07-29 12:43:48.492441",
+        "stock": 110,
+        "nomemberPurchaseYn": true,
+        "couponStatus": null,
+        "detailInfo": "<div class=\"event_cont_wrap\" style=\"text-align:center;line-height:0;\">\r\n<p><!-- @공지_01 --></p>\r\n\r\n<p><strong>상품 특징 한눈에 보기</strong></p>\r\n\r\n<div>\r\n<p><span style=\"font-size:16px;\">까사미아 벨로씨 레보르 천연면피 가죽 소파 4인＋스툴은 천연 면피 가죽을 적용한 프리미엄 거실용 소파 세트로, 가족 단위 휴식과 공간 연출을 위한 제품입니다.</span></p>\r\n\r\n<p><span style=\"font-size:16px;\">신체를 안정적으로 받쳐주는 쿠션 설계로 편안한 착석감을 제공하며, 내구성 높은 가죽 소재와 스툴 구성으로 활용성과 고급스러움을 높였습니다.</span></p>\r\n\r\n<h2>&nbsp;</h2>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2><span style=\"font-size:18px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\"><strong>[제품 소개]</strong></span></span></h2>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span style=\"font-family:Arial,Helvetica,sans-serif;\"><span style=\"font-size:16px;\">&lsquo;[by CASAMIA] 벨로씨 레보르 천연면피 가죽 소파 4인＋스툴&rsquo;은 프리미엄 천연면피 가죽을 사용해&nbsp;</span></span></p>\r\n\r\n<p><span style=\"font-family:Arial,Helvetica,sans-serif;\"><span style=\"font-size:16px;\">내구성이 높고, 통기성이 우수한 까사미아의 대표&nbsp;가죽 소파입니다.</span></span></p>\r\n\r\n<p><span style=\"font-size:16px;\">LG전자 홈스타일에 공식&nbsp;입점된&nbsp;브랜드 제품으로,&nbsp;홈스타일 상품 운영 기준에 따라 제품 품질 및 사용 기준을 충족한 상품입니다.</span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span style=\"font-size:16px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\"></span></span></p>\r\n\r\n<p><span style=\"font-size:16px;\"></span></p>\r\n\r\n<p><span style=\"font-size:16px;\"></span></p>\r\n\r\n<h2><span style=\"font-size:18px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\"><strong>[&lsquo;벨로씨 레보르 가죽 소파&rsquo;는 이런 고객에게 추천합니다]</strong></span></span></h2>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span style=\"font-family:Arial,Helvetica,sans-serif;\"><span style=\"font-size:16px;\">▪<!--ScriptorEndFragment-->&nbsp;가족이 함께 사용하는 거실 메인 소파를 찾는 고객</span></span></p>\r\n\r\n<p><span style=\"font-family:Arial,Helvetica,sans-serif;\"><span style=\"font-size:16px;\">▪<!--ScriptorEndFragment-->&nbsp;신규 입주 아파트나 거실 공간에 4인 이상 가죽 소파가 필요한 고객</span></span></p>\r\n\r\n<p><span style=\"font-family:Arial,Helvetica,sans-serif;\"><span style=\"font-size:16px;\">▪<!--ScriptorEndFragment-->&nbsp;TV&nbsp;시청,&nbsp;휴식,&nbsp;손님&nbsp;응대&nbsp;등&nbsp;다용한&nbsp;상황에&nbsp;맞춘&nbsp;기능적인&nbsp;소파&nbsp;구성을&nbsp;원하는&nbsp;고객&nbsp;&nbsp;</span></span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span style=\"font-family:Arial,Helvetica,sans-serif;\"><span style=\"font-size:16px;\"></span></span></p>\r\n\r\n<p><span style=\"font-family:Arial,Helvetica,sans-serif;\"><span style=\"font-size:16px;\"></span></span></p>\r\n\r\n<h2><span style=\"font-size:18px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\"><strong>[</strong><span style=\"font-size:18px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\"><strong>&lsquo;벨로씨 레보르 가죽 소파&rsquo;의&nbsp;</strong></span></span><strong>핵심 차별 포인트]</strong></span></span></h2>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span style=\"font-family:Arial,Helvetica,sans-serif;\"><span style=\"font-size:16px;\">▪<!--ScriptorEndFragment-->&nbsp;</span></span><span style=\"font-family:Arial,Helvetica,sans-serif;\"><span style=\"font-size:16px;\"><!--ScriptorStartFragment--><!--ScriptorStartFragment-->7단계 각도 조절이 가능한 헤드레스트가 있어, 사용자의 체형과 자세에 맞춘 편안한 착좌를 제공<!--ScriptorEndFragment--><!--ScriptorEndFragment--></span></span></p>\r\n\r\n<p><span style=\"font-family:Arial,Helvetica,sans-serif;\"><span style=\"font-size:16px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\"><span style=\"font-size:16px;\">▪<!--ScriptorEndFragment-->&nbsp;</span></span><!--ScriptorStartFragment-->각도 조절 팔걸이를 적용해 TV 시청이나 휴식 등 다양한 거실 사용 환경에 유연하게 대응<!--ScriptorEndFragment--></span></span></p>\r\n\r\n<p><span style=\"font-family:Arial,Helvetica,sans-serif;\"><span style=\"font-size:16px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\"><span style=\"font-size:16px;\">▪<!--ScriptorEndFragment-->&nbsp;공<!--ScriptorStartFragment-->식 인증 기관의 테스트를 모두 통과한 가죽을 사용해, 포름알데하이드&middot;아릴아민 등 유해물질 안전 기준에 적합<!--ScriptorEndFragment--></span></span></span></span></p>\r\n\r\n<p>&nbsp;</p>\r\n<img border=\"0\" src=\"https://image.guud.com/mall/DESIGN/PRODUCT/notice_01.png\" /></div>\r\n<!-- @공지_02 -->\r\n\r\n<div><img border=\"0\" src=\"https://image.guud.com/mall/DESIGN/PRODUCT/notice_02.png\" /></div>\r\n<!-- @공지_브랜드 -->\r\n\r\n<div><img border=\"0\" src=\"https://image.guud.com/mall/DESIGN/PRODUCT/casamia/casamia_notice.png\" /></div>\r\n<!-- @공지_입고지연 -->\r\n\r\n<div><img border=\"0\" src=\"https://image.guud.com/mall/DESIGN/PRODUCT/casamia/2023/09/mons/pet/mons_pet_notice.png\" /></div>\r\n<!-- @사은품 증정 안내 -->\r\n\r\n<div><img border=\"0\" src=\"https://image.guud.com/mall/DESIGN/PRODUCT/casamia/2023/10/levor/00_levor_banner.jpg\" /></div>\r\n<!-- @여백 화이트 h 100px -->\r\n\r\n<div><img border=\"0\" src=\"https://image.guud.com/mall/DESIGN/PRODUCT/casamia/common/white_h100.jpg\" /></div>\r\n<!-- @공지_굳초이스배너 -->\r\n\r\n<div><img border=\"0\" src=\"https://image.guud.com/mall/DESIGN/PRODUCT/casamia/common/00_guudchoice_banner1.jpg\" /></div>\r\n<!-- @공지_굳초이스브랜드 -->\r\n\r\n<div><img border=\"0\" src=\"https://image.guud.com/mall/DESIGN/PRODUCT/casamia/common/00_guudchoice_banner2_belloci.jpg\" /></div>\r\n<!--levor top GIF -->\r\n\r\n<div><img border=\"0\" src=\"https://image.guud.com/mall/DESIGN/PRODUCT/casamia/2023/10/levor/01_levor_sofa_kv_gif.gif\" /></div>\r\n<!--levor info -->\r\n\r\n<div><img border=\"0\" src=\"https://image.guud.com/mall/DESIGN/PRODUCT/casamia/2023/10/levor/02_levor_Info_4people+stool.jpg\" /></div>\r\n<!--levor Intro -->\r\n\r\n<div><img border=\"0\" src=\"https://image.guud.com/mall/DESIGN/PRODUCT/casamia/2023/10/levor/03_levor_intro.jpg\" /></div>\r\n<!--levor point1 -->\r\n\r\n<div><img border=\"0\" src=\"https://image.guud.com/mall/DESIGN/PRODUCT/casamia/2023/10/levor/04_levor_point1.jpg\" /></div>\r\n<!--levor point1 gif -->\r\n\r\n<div><img border=\"0\" src=\"https://image.guud.com/mall/DESIGN/PRODUCT/casamia/2023/10/levor/04-1_levor_point1_gif.gif\" /></div>\r\n<!--levor point txt -->\r\n\r\n<div><img border=\"0\" src=\"https://image.guud.com/mall/DESIGN/PRODUCT/casamia/2023/10/levor/04-2_levor-set_point1_gif_txt.jpg\" /></div>\r\n<!--levor point2 -->\r\n\r\n<div><img border=\"0\" src=\"https://image.guud.com/mall/DESIGN/PRODUCT/casamia/2023/10/levor/05_levor_point2.jpg\" /></div>\r\n<!--levor point2 gif-->\r\n\r\n<div><img border=\"0\" src=\"https://image.guud.com/mall/DESIGN/PRODUCT/casamia/2023/10/levor/05-1_levor_point2_gif.gif\" /></div>\r\n<!--levor point2 txt -->\r\n\r\n<div><img border=\"0\" src=\"https://image.guud.com/mall/DESIGN/PRODUCT/casamia/2023/10/levor/05-2_levor_point2_txt.jpg\" /></div>\r\n<!--levor point3 -->\r\n\r\n<div><img border=\"0\" src=\"https://image.guud.com/mall/DESIGN/PRODUCT/casamia/2023/10/levor/06_levor_point3.jpg\" /></div>\r\n<!-- 배송 -->\r\n\r\n<div><img border=\"0\" src=\"https://image.guud.com/mall/DESIGN/PRODUCT/casamia/2023/10/levor/99_notice_delivery.jpg\" /></div>\r\n</div>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+        "isDetailHtmlUploaded": true,
+        "summaryInfo": null,
+        "serviceGuide": "<h2>반품/교환 사유에 따른 요청 가능 기간</h2>\r\n\r\n<ol>\r\n\t<li>구매자 단순 변심은 상품 수령 후 7일 이내&nbsp;<small>(구매자 반품배송비 부담)</small></li>\r\n\t<li>특정브랜드의 상품설명에 별도로 기입된 교환 / 환불 / AS 기준이 우선합니다.</li>\r\n\t<li>표시/광고와 상이, 계약내용과 다르게 이행된 경우 상품 수령 후 3개월 이내, 그 사실을 안 날 또는 알 수 있었던 날로부터 30일 이내.<br />\r\n\t둘 중 하나 경과 시 반품/교환 불가&nbsp;<small>(판매자 반품배송비 부담)</small></li>\r\n</ol>\r\n\r\n<h2>반품/교환 불가능 사유</h2>\r\n\r\n<p>아래와 같은 경우 반품/교환이 불가능합니다.</p>\r\n\r\n<ol>\r\n\t<li>반품요청기간이 지난 경우</li>\r\n\t<li>고객님이 이상 여부를 확인한 후 설치가 완료된 상품의 경우 (가구 등)</li>\r\n\t<li>구매자의 책임 있는 사유로 상품 등이 멸실 또는 훼손된 경우&nbsp;<small>(단, 상품의 내용을 확인하기 위하여 포장 등을 훼손한 경우는 제외)</small></li>\r\n\t<li>포장을 개봉하였으나 포장이 훼손되어 상품가치가 현저히 상실된 경우&nbsp;</li>\r\n\t<li>구매자의 사용 또는 일부 소비에 의하여 상품의 가치가 현저히 감소한 경우&nbsp;</li>\r\n\t<li>시간의 경과에 의하여 재판매가 곤란할 정도로 상품 등의 가치가 현저히 감소한 경우&nbsp;</li>\r\n\t<li>고객주문 확인 후 상품제작에 들어가는 주문제작상품</li>\r\n\t<li>복제가 가능한 상품 등의 포장을 훼손한 경우&nbsp;<small>(CD/DVD/GAME/도서의 경우 포장 개봉 시)</small></li>\r\n</ol>\r\n\r\n<p><br />\r\n이외, 배송/반품/교환/AS 관련 정책은 상품별로 상이할 수 있으므로, 자세한 내용은 상품 상세정보를 확인해 주세요.</p>\r\n",
+        "productNotification": {
+          "items": [
+            {
+              "title": "품명",
+              "description": "레보르(LEVOR) 천연면피 가죽 소파 4인용+스툴"
+            },
+            {
+              "title": "KC 인증 필 유무",
+              "description": "- 안전기준 준수"
+            },
+            {
+              "title": "색상",
+              "description": "카멜브라운, 크림아이보리"
+            },
+            {
+              "title": "구성품",
+              "description": "4인 소파 + 스툴"
+            },
+            {
+              "title": "주요 소재",
+              "description": "[마감재] 천연면피 소가죽+합성가죽 / [내장재] 정제목, E0합판, HR고밀도스펀지, 화이바솜, 엘라스틱밴드 / [다리] 스틸"
+            },
+            {
+              "title": "제조자",
+              "description": "벨로씨OEM"
+            },
+            {
+              "title": "제조국",
+              "description": "중국"
+            },
+            {
+              "title": "크기",
+              "description": "[4인] W2910 X D1020 X H910mm / [스툴] W740 X D660 X H410mm"
+            },
+            {
+              "title": "배송,설치비용",
+              "description": "상품상세 참조"
+            },
+            {
+              "title": "품질보증기준",
+              "description": "[벨로씨]품질보증기간은 제품불량의 경우 최초구매일자로 부터 1년이내 무상 A/S. 이외의 사항은 상세페이지 참고"
+            },
+            {
+              "title": "A/S 책임자와 전화번호",
+              "description": "벨로씨 고객센터 070-7701-7271"
+            }
+          ],
+          "safetyInfo": null
+        },
+        "sellerInfo": {
+          "address": "(04529) 서울특별시 중구 남대문시장10길 2 (회현동1가) 5층",
+          "sellerId": "V250000167",
+          "sellerName": "(주)신세계까사",
+          "contact": "02-1588-3408",
+          "description": null,
+          "representative": "김흥국",
+          "email": "yunej@shinsegae.com",
+          "businessRegistrationNumber": "1208111794",
+          "onlineBusinessRegistrationNumber": "2021-서울중구-1960"
+        },
+        "category": {
+          "superCategoryId": "2506000003",
+          "superCategoryName": "가구",
+          "categoryId": "2506000011",
+          "categoryName": "소파",
+          "subCategoryId": "2506000070",
+          "subCategoryName": "일반소파"
+        },
+        "isOnlyIcon": false,
+        "boSalePrice": 1420000,
+        "priceValidEndDate": "2026-07-31 23:59:59"
+      }
+    },
+    "space": {
+      "timestamp": "2026-07-20T16:23:34.8260544",
+      "status": 404,
+      "message": "Not Found",
+      "data": null
+    },
+    "packs": {
+      "timestamp": "2026-07-20T16:23:34.8435046",
+      "status": 404,
+      "message": "Not Found",
+      "data": null
+    }
+  },
+  {
+    "id": "G25100020496",
+    "goodsStatus": 200,
+    "spaceStatus": 404,
+    "packsStatus": 404,
+    "goods": {
+      "timestamp": "2026-07-20T16:23:35.1135382",
+      "status": 200,
+      "message": "OK",
+      "data": {
+        "images": [
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "1",
+            "dclYn": false,
+            "imageUrl": "/goods/org/916/251021000084916.jpg?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "모듈로 먼지없는 거실러그 메인이미지 1"
+          },
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "2",
+            "dclYn": false,
+            "imageUrl": "/goods/org/919/251021000084919.jpg?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "모듈로 먼지없는 거실러그 메인이미지 2"
+          },
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "3",
+            "dclYn": false,
+            "imageUrl": "/goods/org/917/251021000084917.jpg?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "모듈로 먼지없는 거실러그 메인이미지 3"
+          },
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "4",
+            "dclYn": false,
+            "imageUrl": "/goods/org/918/251021000084918.jpg?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "모듈로 먼지없는 거실러그 메인이미지 4"
+          },
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "5",
+            "dclYn": false,
+            "imageUrl": "/goods/org/920/251021000084920.jpg?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "모듈로 먼지없는 거실러그 메인이미지 5"
+          }
+        ],
+        "timeSale": null,
+        "priceTooltip": {
+          "title": "즉시할인가",
+          "description": "즉시할인이 적용된 가격입니다."
+        },
+        "priceMainTooltip": null,
+        "priceSubTooltip": null,
+        "ordApplyStartDate": null,
+        "ordApplyEndDate": null,
+        "purchaseOptions": [
+          {
+            "items": [
+              {
+                "name": "1400mm x 2000mm",
+                "imageUrl": null
+              },
+              {
+                "name": "1600mm x 2300mm",
+                "imageUrl": null
+              },
+              {
+                "name": "2000mm x 3000mm",
+                "imageUrl": null
+              }
+            ],
+            "title": "사이즈"
+          }
+        ],
+        "purchaseOptionsPrice": [
+          {
+            "name": "1400mm x 2000mm",
+            "minSalePrice": 107000,
+            "maxSalePrice": 0
+          },
+          {
+            "name": "1600mm x 2300mm",
+            "minSalePrice": 139000,
+            "maxSalePrice": 0
+          },
+          {
+            "name": "2000mm x 3000mm",
+            "minSalePrice": 219000,
+            "maxSalePrice": 0
+          }
+        ],
+        "productStock": [
+          {
+            "salePrice": 107000,
+            "discountPrice": 0,
+            "optionId": "10025",
+            "optionName": "1400mm x 2000mm",
+            "stock": "984",
+            "estimatedDeliveryDateComment": "",
+            "estimatedDeliveryDateOptionComment": ""
+          },
+          {
+            "salePrice": 139000,
+            "discountPrice": 0,
+            "optionId": "10026",
+            "optionName": "1600mm x 2300mm",
+            "stock": "981",
+            "estimatedDeliveryDateComment": "",
+            "estimatedDeliveryDateOptionComment": ""
+          },
+          {
+            "salePrice": 219000,
+            "discountPrice": 0,
+            "optionId": "10027",
+            "optionName": "2000mm x 3000mm",
+            "stock": "985",
+            "estimatedDeliveryDateComment": "",
+            "estimatedDeliveryDateOptionComment": ""
+          }
+        ],
+        "deliveryInfo": {
+          "tooltip": "제공업체, 택배사 사정으로 실제 도착일은 예측과 다를 수 있습니다. \n주말, 공휴일을 제외한 영업일(평일) 기준입니다.",
+          "hasRegionalAdditionalFee": true,
+          "hasRegionalAdditionalTxt": null,
+          "deliveryDivComment": null,
+          "parcelCommCd": "99",
+          "deliveryDiviCd": "10",
+          "typeDescription": "업체배송",
+          "estimatedDeliveryDateComment": "07/23(목) 이내 도착 예정",
+          "reservationDeadlineComment": null,
+          "notice": "",
+          "fee": "3,000원 (주문시 결제)",
+          "deliveryReadTimeCode": "",
+          "reservationDescription": "",
+          "hasInstallationFee": false,
+          "hasInstallationTxt": null,
+          "additionalFee": "도서산간, 제주도 추가 3,000원",
+          "additionalInfo": "5만원 이상 무료배송"
+        },
+        "officialStore": null,
+        "popularProducts": [
+          {
+            "salePossQty": "2713",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "3,000",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G25110022182",
+            "productName": "테리 타올 누빔 푹신한 발매트 욕실 매트 3colors",
+            "status": "40",
+            "imageUrl": "/goods/org/720251105000095720.jpg",
+            "imageAlt": null,
+            "brandId": "2500000031",
+            "brandName": "보웰",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 25900,
+              "immediateTitle": "즉시할인",
+              "immediateDiscountPrice": 8100,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 25900,
+              "originalPrice": 34000,
+              "currentPrice": 25900,
+              "discountRate": 23
+            },
+            "dispCtgNo": "2506000027",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "16811",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "3,000",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G25110022184",
+            "productName": "[BWTZ] 푹신한 롱파일 자카드 발매트 25종",
+            "status": "40",
+            "imageUrl": "/goods/org/730251105000095730.jpg",
+            "imageAlt": null,
+            "brandId": "2500000031",
+            "brandName": "보웰",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 21900,
+              "immediateTitle": "즉시할인",
+              "immediateDiscountPrice": 5100,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 21900,
+              "originalPrice": 27000,
+              "currentPrice": 21900,
+              "discountRate": 18
+            },
+            "dispCtgNo": "2506000027",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "14901",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G25110022185",
+            "productName": "[BWTZ] 푹신한 롱파일 자카드 주방매트 8종",
+            "status": "40",
+            "imageUrl": "/goods/org/736251105000095736.jpg",
+            "imageAlt": null,
+            "brandId": "2500000031",
+            "brandName": "보웰",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 40000,
+              "immediateTitle": "즉시할인",
+              "immediateDiscountPrice": 10000,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 40000,
+              "originalPrice": 50000,
+              "currentPrice": 40000,
+              "discountRate": 20
+            },
+            "dispCtgNo": "2506000027",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "1948",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G25110022183",
+            "productName": "테리 타올 누빔 푹신한 주방매트 다용도 발매트 2colors",
+            "status": "40",
+            "imageUrl": "/goods/org/725251105000095725.jpg",
+            "imageAlt": null,
+            "brandId": "2500000031",
+            "brandName": "보웰",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 44000,
+              "immediateTitle": "즉시할인",
+              "immediateDiscountPrice": 14000,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 44000,
+              "originalPrice": 58000,
+              "currentPrice": 44000,
+              "discountRate": 24
+            },
+            "dispCtgNo": "2506000027",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "2950",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G25100020496",
+            "productName": "모듈로 먼지없는 거실러그 _3 Size",
+            "status": "40",
+            "imageUrl": "/goods/org/916/251021000084916.jpg",
+            "imageAlt": null,
+            "brandId": "2500000611",
+            "brandName": "데이드리머",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 107000,
+              "immediateTitle": "즉시할인",
+              "immediateDiscountPrice": 61750,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 107000,
+              "originalPrice": 168750,
+              "currentPrice": 107000,
+              "discountRate": 36
+            },
+            "dispCtgNo": "2506000027",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "9999999",
+            "stockMgmtYn": "N",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "3,500",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G25070002939",
+            "productName": "루프 스퀘어 발매트,주방매트",
+            "status": "40",
+            "imageUrl": "/goods/org/948/250725000011948.jpg",
+            "imageAlt": null,
+            "brandId": "2500000046",
+            "brandName": "메종드룸룸",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 30400,
+              "immediateTitle": "즉시할인",
+              "immediateDiscountPrice": 1600,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 30400,
+              "originalPrice": 32000,
+              "currentPrice": 30400,
+              "discountRate": 5
+            },
+            "dispCtgNo": "2506000027",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "997",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G25120026393",
+            "productName": "[BWTZ] 푹신한 롱파일 자카드 러그 거실러그 카페트 도트(핑크)",
+            "status": "40",
+            "imageUrl": "/goods/org/207251204000113207.jpg",
+            "imageAlt": null,
+            "brandId": "2500000031",
+            "brandName": "보웰",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 101600,
+              "immediateTitle": "즉시할인",
+              "immediateDiscountPrice": 25400,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 101600,
+              "originalPrice": 127000,
+              "currentPrice": 101600,
+              "discountRate": 20
+            },
+            "dispCtgNo": "2506000027",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "7983",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G25110022190",
+            "productName": "[BWTZ] 푹신한 롱파일 자카드 러그 침실러그 8종",
+            "status": "40",
+            "imageUrl": "/goods/org/759251105000095759.jpg",
+            "imageAlt": null,
+            "brandId": "2500000031",
+            "brandName": "보웰",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 68000,
+              "immediateTitle": "즉시할인",
+              "immediateDiscountPrice": 17000,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 68000,
+              "originalPrice": 85000,
+              "currentPrice": 68000,
+              "discountRate": 20
+            },
+            "dispCtgNo": "2506000027",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "9988",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "3,000",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G26060044417",
+            "productName": "꼬모러그 아르벨 욕실 주방 카페트 2size 5컬러",
+            "status": "40",
+            "imageUrl": "/goods/org/877260624000234877.jpg",
+            "imageAlt": null,
+            "brandId": "2500000560",
+            "brandName": "샤이닝홈",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 44900,
+              "immediateTitle": null,
+              "immediateDiscountPrice": 0,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 44900,
+              "originalPrice": 44900,
+              "currentPrice": 44900,
+              "discountRate": 0
+            },
+            "dispCtgNo": "2506000027",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "1967",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "3,000",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G26040040315",
+            "productName": "한샘 BAISQUE 스트라이프 타월 발매트 (2종/택1)",
+            "status": "40",
+            "imageUrl": "/goods/org/474260428000215474.jpg",
+            "imageAlt": null,
+            "brandId": "2500000751",
+            "brandName": "한샘",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 8900,
+              "immediateTitle": "즉시할인",
+              "immediateDiscountPrice": 4000,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 8900,
+              "originalPrice": 12900,
+              "currentPrice": 8900,
+              "discountRate": 31
+            },
+            "dispCtgNo": "2506000027",
+            "isOnlyIcon": false
+          }
+        ],
+        "goodsCombinationDcInfo": null,
+        "productId": "G25100020496",
+        "productName": "모듈로 먼지없는 거실러그 _3 Size",
+        "brandId": "2500000611",
+        "brandName": "데이드리머",
+        "status": "ON_SALE",
+        "wishId": null,
+        "isWish": false,
+        "reviewCount": 0,
+        "score": 0,
+        "maxPurchaseQuantity": 0,
+        "minPurchaseQuantity": 1,
+        "ordPossType": "",
+        "registeredDate": "2025-10-21 09:43:58.28183",
+        "stock": 2950,
+        "nomemberPurchaseYn": true,
+        "couponStatus": null,
+        "detailInfo": "<center><!-- 주문제작/빠른배송 --><!--<img src=\"//www.daydreamer.co.kr/product/detail_pg/notice_2w.jpg\">--><img src=\"//www.daydreamer.co.kr/product/detail_pg/notice_2w_best.jpg\" /> <!-- 크리에이터 초이스 --> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/choice/choice_top.jpg\" /> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/choice/choice_baejh.gif\" /> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/choice/choice_gjjb.gif\" /> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/choice/choice_gmv.gif\" /> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/choice/choice_bottom.jpg\" /> <!-- 드라마 협찬 --> <img src=\"//www.daydreamer.co.kr/product/2024/06/rug/felt/drama.jpg\" /> <!-- 리뷰 --> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/review_dtp.jpg\" /> <!-- 제품 영상 --> <img src=\"//www.daydreamer.co.kr/product/2025/10/dtp/modulo/modulo.gif\" /> <!-- 제품 설명 1 --> <img src=\"//www.daydreamer.co.kr/product/2025/10/dtp/modulo/01.jpg\" /> <!-- 공통 설명(dtp) --> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/detail_dtp_01.jpg\" /> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/detail_dtp_02.gif\" /> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/detail_dtp_03.gif\" /> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/detail_dtp_04.gif\" /> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/detail_dtp_05.gif\" /> <!-- 제품 설명 2~3 --> <img src=\"//www.daydreamer.co.kr/product/2025/10/dtp/modulo/02.jpg\" /> <img src=\"//www.daydreamer.co.kr/product/2025/10/dtp/modulo/03.jpg\" /> <!-- 공통 설명(dtp) --> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/detail_dtp_06.jpg\" /> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/detail_dtp_07.jpg\" /> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/detail_dtp_08.jpg\" /> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/detail_dtp_09.gif\" /> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/detail_dtp_10.jpg\" /> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/detail_dtp_11.gif\" /> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/detail_dtp_12.jpg\" /> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/detail_dtp_13.gif\" /> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/detail_dtp_14.jpg\" /> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/detail_dtp_15.gif\" /> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/detail_dtp_16.jpg\" /> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/detail_dtp_17.gif\" /> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/detail_dtp_18.jpg\" /> <!-- 제품 설명 4~5 --> <img src=\"//www.daydreamer.co.kr/product/2025/10/dtp/modulo/04.jpg\" /> <img src=\"//www.daydreamer.co.kr/product/2025/10/dtp/modulo/05.jpg\" /> <!-- 러그 관리, 세탁 방법 --> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/howto_rug_dtp.jpg\" /> <!-- 제조(러그) --> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/madeby_rug_01.jpg\" /> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/madeby_rug_02.gif\" /> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/madeby_rug_03.jpg\" /> <!-- 러그 사이즈 가이드 --> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/sizeguide_rug.jpg\" /> <!-- 배송/교환/반품 안내(러그) --> <img src=\"//www.daydreamer.co.kr/product/detail_pg/2025/10/bottom_rug.jpg\" /></center>\r\n",
+        "isDetailHtmlUploaded": true,
+        "summaryInfo": null,
+        "serviceGuide": "<h2>반품/교환 사유에 따른 요청 가능 기간</h2>\r\n\r\n<ol>\r\n\t<li>구매자 단순 변심은 상품 수령 후 7일 이내&nbsp;<small>(구매자 반품배송비 부담)</small></li>\r\n\t<li>특정브랜드의 상품설명에 별도로 기입된 교환 / 환불 / AS 기준이 우선합니다.</li>\r\n\t<li>표시/광고와 상이, 계약내용과 다르게 이행된 경우 상품 수령 후 3개월 이내, 그 사실을 안 날 또는 알 수 있었던 날로부터 30일 이내.<br />\r\n\t둘 중 하나 경과 시 반품/교환 불가&nbsp;<small>(판매자 반품배송비 부담)</small></li>\r\n</ol>\r\n\r\n<h2>반품/교환 불가능 사유</h2>\r\n\r\n<p>아래와 같은 경우 반품/교환이 불가능합니다.</p>\r\n\r\n<ol>\r\n\t<li>반품요청기간이 지난 경우</li>\r\n\t<li>고객님이 이상 여부를 확인한 후 설치가 완료된 상품의 경우 (가구 등)</li>\r\n\t<li>구매자의 책임 있는 사유로 상품 등이 멸실 또는 훼손된 경우&nbsp;<small>(단, 상품의 내용을 확인하기 위하여 포장 등을 훼손한 경우는 제외)</small></li>\r\n\t<li>포장을 개봉하였으나 포장이 훼손되어 상품가치가 현저히 상실된 경우&nbsp;</li>\r\n\t<li>구매자의 사용 또는 일부 소비에 의하여 상품의 가치가 현저히 감소한 경우&nbsp;</li>\r\n\t<li>시간의 경과에 의하여 재판매가 곤란할 정도로 상품 등의 가치가 현저히 감소한 경우&nbsp;</li>\r\n\t<li>고객주문 확인 후 상품제작에 들어가는 주문제작상품</li>\r\n\t<li>복제가 가능한 상품 등의 포장을 훼손한 경우&nbsp;<small>(CD/DVD/GAME/도서의 경우 포장 개봉 시)</small></li>\r\n</ol>\r\n\r\n<p><br />\r\n이외, 배송/반품/교환/AS 관련 정책은 상품별로 상이할 수 있으므로, 자세한 내용은 상품 상세정보를 확인해 주세요.</p>\r\n",
+        "productNotification": {
+          "items": [
+            {
+              "title": "제품 소재",
+              "description": "상품설명/상세정보 참고"
+            },
+            {
+              "title": "색상",
+              "description": "상품설명/상세정보 참고"
+            },
+            {
+              "title": "치수",
+              "description": "상품설명/상세정보 참고"
+            },
+            {
+              "title": "제품구성",
+              "description": "상품설명/상세정보 참고"
+            },
+            {
+              "title": "제조자",
+              "description": "데이드리머"
+            },
+            {
+              "title": "제조국",
+              "description": "중국"
+            },
+            {
+              "title": "세탁방법 및 취급시 주의사항",
+              "description": "상품설명/상세정보 참고"
+            },
+            {
+              "title": "품질보증 기준",
+              "description": "상품설명/상세정보 참고"
+            },
+            {
+              "title": "A/S 책임자와 전화번호",
+              "description": "데이드리머 051-781-0508"
+            }
+          ],
+          "safetyInfo": null
+        },
+        "sellerInfo": {
+          "address": "(48059) 부산광역시 해운대구 센텀중앙로 78 (우동) 605호",
+          "sellerId": "V250000211",
+          "sellerName": "(주)데이드리머",
+          "contact": "051-781-0508",
+          "description": null,
+          "representative": "박우진",
+          "email": "fb.daydreamer@gmail.com",
+          "businessRegistrationNumber": "2098701209",
+          "onlineBusinessRegistrationNumber": "2018-부산해운대-0823"
+        },
+        "category": {
+          "superCategoryId": "2506000004",
+          "superCategoryName": "패브릭",
+          "categoryId": "2506000027",
+          "categoryName": "러그·매트",
+          "subCategoryId": "2506000148",
+          "subCategoryName": "러그"
+        },
+        "isOnlyIcon": false,
+        "boSalePrice": 107000,
+        "priceValidEndDate": "2099-12-31 23:59:59"
+      }
+    },
+    "space": {
+      "timestamp": "2026-07-20T16:23:34.9936592",
+      "status": 404,
+      "message": "Not Found",
+      "data": null
+    },
+    "packs": {
+      "timestamp": "2026-07-20T16:23:34.9980214",
+      "status": 404,
+      "message": "Not Found",
+      "data": null
+    }
+  },
+  {
+    "id": "G25070001871",
+    "goodsStatus": 200,
+    "spaceStatus": 404,
+    "packsStatus": 404,
+    "goods": {
+      "timestamp": "2026-07-20T16:23:35.3050913",
+      "status": 200,
+      "message": "OK",
+      "data": {
+        "images": [
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "1",
+            "dclYn": false,
+            "imageUrl": "/goods/org/897/250723000005897.png?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "Teti 메인이미지 1"
+          },
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "2",
+            "dclYn": false,
+            "imageUrl": "/goods/org/899/250723000005899.png?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "Teti 메인이미지 2"
+          },
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "3",
+            "dclYn": false,
+            "imageUrl": "/goods/org/898/250723000005898.png?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "Teti 메인이미지 3"
+          },
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "4",
+            "dclYn": false,
+            "imageUrl": "/goods/org/900/250723000005900.png?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "Teti 메인이미지 4"
+          },
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "5",
+            "dclYn": false,
+            "imageUrl": "/goods/org/901/250723000005901.png?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "Teti 메인이미지 5"
+          }
+        ],
+        "timeSale": null,
+        "priceTooltip": {
+          "title": "즉시할인가",
+          "description": "즉시할인이 적용된 가격입니다."
+        },
+        "priceMainTooltip": null,
+        "priceSubTooltip": null,
+        "ordApplyStartDate": null,
+        "ordApplyEndDate": null,
+        "purchaseOptions": [
+          {
+            "items": [
+              {
+                "name": "Anthracite grey",
+                "imageUrl": null
+              },
+              {
+                "name": "White",
+                "imageUrl": null
+              },
+              {
+                "name": "Orange",
+                "imageUrl": null
+              },
+              {
+                "name": "Transparent",
+                "imageUrl": null
+              },
+              {
+                "name": "Transparent Orange",
+                "imageUrl": null
+              }
+            ],
+            "title": "Option"
+          }
+        ],
+        "purchaseOptionsPrice": [
+          {
+            "name": "Anthracite grey",
+            "minSalePrice": 135000,
+            "maxSalePrice": 0
+          },
+          {
+            "name": "White",
+            "minSalePrice": 135000,
+            "maxSalePrice": 0
+          },
+          {
+            "name": "Orange",
+            "minSalePrice": 135000,
+            "maxSalePrice": 0
+          },
+          {
+            "name": "Transparent",
+            "minSalePrice": 135000,
+            "maxSalePrice": 0
+          },
+          {
+            "name": "Transparent Orange",
+            "minSalePrice": 135000,
+            "maxSalePrice": 0
+          }
+        ],
+        "productStock": [
+          {
+            "salePrice": 135000,
+            "discountPrice": 0,
+            "optionId": "10001",
+            "optionName": "Anthracite grey",
+            "stock": "999999",
+            "estimatedDeliveryDateComment": "",
+            "estimatedDeliveryDateOptionComment": ""
+          },
+          {
+            "salePrice": 135000,
+            "discountPrice": 0,
+            "optionId": "10002",
+            "optionName": "White",
+            "stock": "999999",
+            "estimatedDeliveryDateComment": "",
+            "estimatedDeliveryDateOptionComment": ""
+          },
+          {
+            "salePrice": 135000,
+            "discountPrice": 0,
+            "optionId": "10003",
+            "optionName": "Orange",
+            "stock": "999999",
+            "estimatedDeliveryDateComment": "",
+            "estimatedDeliveryDateOptionComment": ""
+          },
+          {
+            "salePrice": 135000,
+            "discountPrice": 0,
+            "optionId": "10004",
+            "optionName": "Transparent",
+            "stock": "999999",
+            "estimatedDeliveryDateComment": "",
+            "estimatedDeliveryDateOptionComment": ""
+          },
+          {
+            "salePrice": 135000,
+            "discountPrice": 0,
+            "optionId": "10005",
+            "optionName": "Transparent Orange",
+            "stock": "999999",
+            "estimatedDeliveryDateComment": "",
+            "estimatedDeliveryDateOptionComment": ""
+          }
+        ],
+        "deliveryInfo": {
+          "tooltip": "제공업체, 택배사 사정으로 실제 도착일은 예측과 다를 수 있습니다. \n주말, 공휴일을 제외한 영업일(평일) 기준입니다.",
+          "hasRegionalAdditionalFee": false,
+          "hasRegionalAdditionalTxt": null,
+          "deliveryDivComment": null,
+          "parcelCommCd": "69",
+          "deliveryDiviCd": "10",
+          "typeDescription": "택배배송",
+          "estimatedDeliveryDateComment": "07/23(목) 이내 도착 예정",
+          "reservationDeadlineComment": null,
+          "notice": "",
+          "fee": "무료배송",
+          "deliveryReadTimeCode": "",
+          "reservationDescription": "",
+          "hasInstallationFee": false,
+          "hasInstallationTxt": null,
+          "additionalFee": null,
+          "additionalInfo": null
+        },
+        "officialStore": {
+          "logoUrl": "/banner/4010/727/251000000002727.jpg",
+          "logoAlt": "두오모",
+          "storeId": "2508000380",
+          "name": "두오모"
+        },
+        "popularProducts": [
+          {
+            "salePossQty": "9999999",
+            "stockMgmtYn": "N",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": false
+            },
+            "productId": "G25070003812",
+            "productName": "Parentesi _4colors",
+            "status": "40",
+            "imageUrl": "/goods/org/197/250728000022197.jpg",
+            "imageAlt": null,
+            "brandId": "2500000467",
+            "brandName": "플로스",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 786600,
+              "immediateTitle": "즉시할인",
+              "immediateDiscountPrice": 89400,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": "결제일할인 8%",
+              "cardDiscountPrice": 62900,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 723700,
+              "originalPrice": 876000,
+              "currentPrice": 786600,
+              "discountRate": 10
+            },
+            "dispCtgNo": "2506000032",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "41",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G26030036258",
+            "productName": "프리츠한센 CONCERT PENDANT P1 - WHITE",
+            "status": "40",
+            "imageUrl": "/goods/org/532/260321000182532.jpg",
+            "imageAlt": null,
+            "brandId": "2500000054",
+            "brandName": "프리츠한센",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 588000,
+              "immediateTitle": null,
+              "immediateDiscountPrice": 0,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": "결제일할인 8%",
+              "cardDiscountPrice": 47000,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 541000,
+              "originalPrice": 588000,
+              "currentPrice": 588000,
+              "discountRate": 0
+            },
+            "dispCtgNo": "2506000032",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "9999999",
+            "stockMgmtYn": "N",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": false
+            },
+            "productId": "G25070001871",
+            "productName": "Teti _5colors",
+            "status": "40",
+            "imageUrl": "/goods/org/897/250723000005897.png",
+            "imageAlt": null,
+            "brandId": "2500000547",
+            "brandName": "아르떼미데",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 135000,
+              "immediateTitle": "즉시할인",
+              "immediateDiscountPrice": 15000,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 135000,
+              "originalPrice": 150000,
+              "currentPrice": 135000,
+              "discountRate": 10
+            },
+            "dispCtgNo": "2506000032",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "9999999",
+            "stockMgmtYn": "N",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": false
+            },
+            "productId": "G25070003804",
+            "productName": "Frisbi",
+            "status": "40",
+            "imageUrl": "/goods/org/200/250728000022200.png",
+            "imageAlt": null,
+            "brandId": "2500000467",
+            "brandName": "플로스",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 904500,
+              "immediateTitle": "즉시할인",
+              "immediateDiscountPrice": 100500,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": "결제일할인 8%",
+              "cardDiscountPrice": 72300,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 832200,
+              "originalPrice": 1005000,
+              "currentPrice": 904500,
+              "discountRate": 10
+            },
+            "dispCtgNo": "2506000032",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "30",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "4,000",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G26050040845",
+            "productName": "아스테리아 펜던트 램프 _3 Colors",
+            "status": "40",
+            "imageUrl": "/goods/org/069/260506000218069.jpg",
+            "imageAlt": null,
+            "brandId": "2600000826",
+            "brandName": "우메이",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 839000,
+              "immediateTitle": null,
+              "immediateDiscountPrice": 0,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": "결제일할인 8%",
+              "cardDiscountPrice": 67100,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 771900,
+              "originalPrice": 839000,
+              "currentPrice": 839000,
+              "discountRate": 0
+            },
+            "dispCtgNo": "2506000032",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "9989",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G26020033022",
+            "productName": "앨리 ALLEY 팬던트 스몰(S) 버건디",
+            "status": "40",
+            "imageUrl": "/goods/org/312/260206000165312.png",
+            "imageAlt": null,
+            "brandId": "2600000775",
+            "brandName": "아고라이팅",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 396000,
+              "immediateTitle": null,
+              "immediateDiscountPrice": 0,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 396000,
+              "originalPrice": 396000,
+              "currentPrice": 396000,
+              "discountRate": 0
+            },
+            "dispCtgNo": "2506000032",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "9989",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G26020033021",
+            "productName": "앨리 ALLEY 팬던트 스몰(S) 그린",
+            "status": "40",
+            "imageUrl": "/goods/org/316/260206000165316.png",
+            "imageAlt": null,
+            "brandId": "2600000775",
+            "brandName": "아고라이팅",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 396000,
+              "immediateTitle": null,
+              "immediateDiscountPrice": 0,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 396000,
+              "originalPrice": 396000,
+              "currentPrice": 396000,
+              "discountRate": 0
+            },
+            "dispCtgNo": "2506000032",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "9989",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G26020033020",
+            "productName": "앨리 ALLEY 팬던트 스몰(S) 그레이",
+            "status": "40",
+            "imageUrl": "/goods/org/310/260206000165310.png",
+            "imageAlt": null,
+            "brandId": "2600000775",
+            "brandName": "아고라이팅",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 396000,
+              "immediateTitle": null,
+              "immediateDiscountPrice": 0,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 396000,
+              "originalPrice": 396000,
+              "currentPrice": 396000,
+              "discountRate": 0
+            },
+            "dispCtgNo": "2506000032",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "9989",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G26020032927",
+            "productName": "앨리 ALLEY 팬던트 스몰(S) 에그화이트",
+            "status": "40",
+            "imageUrl": "/goods/org/883/260205000164883.png",
+            "imageAlt": null,
+            "brandId": "2600000775",
+            "brandName": "아고라이팅",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 396000,
+              "immediateTitle": null,
+              "immediateDiscountPrice": 0,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 396000,
+              "originalPrice": 396000,
+              "currentPrice": 396000,
+              "discountRate": 0
+            },
+            "dispCtgNo": "2506000032",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "9989",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G26020032918",
+            "productName": "모찌 MOZZI 펜던트 스몰(S) 차콜",
+            "status": "40",
+            "imageUrl": "/goods/org/854/260205000164854.png",
+            "imageAlt": null,
+            "brandId": "2600000775",
+            "brandName": "아고라이팅",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 329000,
+              "immediateTitle": null,
+              "immediateDiscountPrice": 0,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 329000,
+              "originalPrice": 329000,
+              "currentPrice": 329000,
+              "discountRate": 0
+            },
+            "dispCtgNo": "2506000032",
+            "isOnlyIcon": false
+          }
+        ],
+        "goodsCombinationDcInfo": null,
+        "productId": "G25070001871",
+        "productName": "Teti _5colors",
+        "brandId": "2500000547",
+        "brandName": "아르떼미데",
+        "status": "ON_SALE",
+        "wishId": null,
+        "isWish": false,
+        "reviewCount": 0,
+        "score": 0,
+        "maxPurchaseQuantity": 0,
+        "minPurchaseQuantity": 1,
+        "ordPossType": "",
+        "registeredDate": "2025-07-23 17:34:38.006417",
+        "stock": 4999995,
+        "nomemberPurchaseYn": true,
+        "couponStatus": null,
+        "detailInfo": "<p>[LGE.COM 홈스타일 공식 인증 안내] 본 제품은 아르떼미데(Artemide)공식 수입원(두오모)을 통해 판매중인 100%정품 상품입니다.<br />\r\n1. 정품 보장: 가품 걱정 없는 공식 루트 제품.<br />\r\n2. A/S: 제품 하자의 경우 구매 후 1년까지 무상으로 A/S를 두오모에서 제공 합니다.<br />\r\n&nbsp;</p>\r\n\r\n<p><img alt=\"DETAIL_직영점.png\" src=\"https://storage001.daousync.com/v1/AUTH_c55e59a8ec2149e7ad5e61ca73645bd9/mw155231/image/1753067270913.png\" /></p>\r\n",
+        "isDetailHtmlUploaded": true,
+        "summaryInfo": null,
+        "serviceGuide": "<h2>반품/교환 사유에 따른 요청 가능 기간</h2>\r\n\r\n<ol>\r\n\t<li>구매자 단순 변심은 상품 수령 후 7일 이내&nbsp;<small>(구매자 반품배송비 부담)</small></li>\r\n\t<li>특정브랜드의 상품설명에 별도로 기입된 교환 / 환불 / AS 기준이 우선합니다.</li>\r\n\t<li>표시/광고와 상이, 계약내용과 다르게 이행된 경우 상품 수령 후 3개월 이내, 그 사실을 안 날 또는 알 수 있었던 날로부터 30일 이내.<br />\r\n\t둘 중 하나 경과 시 반품/교환 불가&nbsp;<small>(판매자 반품배송비 부담)</small></li>\r\n</ol>\r\n\r\n<h2>반품/교환 불가능 사유</h2>\r\n\r\n<p>아래와 같은 경우 반품/교환이 불가능합니다.</p>\r\n\r\n<ol>\r\n\t<li>반품요청기간이 지난 경우</li>\r\n\t<li>고객님이 이상 여부를 확인한 후 설치가 완료된 상품의 경우 (가구 등)</li>\r\n\t<li>구매자의 책임 있는 사유로 상품 등이 멸실 또는 훼손된 경우&nbsp;<small>(단, 상품의 내용을 확인하기 위하여 포장 등을 훼손한 경우는 제외)</small></li>\r\n\t<li>포장을 개봉하였으나 포장이 훼손되어 상품가치가 현저히 상실된 경우&nbsp;</li>\r\n\t<li>구매자의 사용 또는 일부 소비에 의하여 상품의 가치가 현저히 감소한 경우&nbsp;</li>\r\n\t<li>시간의 경과에 의하여 재판매가 곤란할 정도로 상품 등의 가치가 현저히 감소한 경우&nbsp;</li>\r\n\t<li>고객주문 확인 후 상품제작에 들어가는 주문제작상품</li>\r\n\t<li>복제가 가능한 상품 등의 포장을 훼손한 경우&nbsp;<small>(CD/DVD/GAME/도서의 경우 포장 개봉 시)</small></li>\r\n</ol>\r\n\r\n<p><br />\r\n이외, 배송/반품/교환/AS 관련 정책은 상품별로 상이할 수 있으므로, 자세한 내용은 상품 상세정보를 확인해 주세요.</p>\r\n",
+        "productNotification": {
+          "items": [
+            {
+              "title": "품명 및 모델명",
+              "description": "Teti"
+            },
+            {
+              "title": "KC 인증 필 유무",
+              "description": "유"
+            },
+            {
+              "title": "정격전압, 소비전력",
+              "description": "상세페이지 참조"
+            },
+            {
+              "title": "에너지소비효율등급",
+              "description": "해당 없음"
+            },
+            {
+              "title": "동일모델의 출시년월",
+              "description": "해당 없음"
+            },
+            {
+              "title": "제조자, 수입품의 경우 수입자를 함께 표기",
+              "description": "제조사 : Artemide \r\n수입사 : 두오모"
+            },
+            {
+              "title": "제조국",
+              "description": "이탈리아"
+            },
+            {
+              "title": "크기",
+              "description": "상세페이지 참조"
+            },
+            {
+              "title": "품질보증기준",
+              "description": "해당 없음"
+            },
+            {
+              "title": "A/S 책임자와 전화번호",
+              "description": "02-3446-9855"
+            }
+          ],
+          "safetyInfo": [
+            {
+              "linkUrl": "https://ecolife.me.go.kr",
+              "kcCertificationType": "CHEMICAL_PRODUCTS",
+              "authorityNumber": "상세페이지 참조"
+            }
+          ]
+        },
+        "sellerInfo": {
+          "address": "(06052) 서울특별시 강남구 논현로132길 25 (논현동) 두오모앤코",
+          "sellerId": "V250000018",
+          "sellerName": "㈜ 두오모",
+          "contact": "02-3446-9855",
+          "description": null,
+          "representative": "최항순",
+          "email": "shkim@duomo.co.kr",
+          "businessRegistrationNumber": "2118725408",
+          "onlineBusinessRegistrationNumber": "2018-서울강남-01545"
+        },
+        "category": {
+          "superCategoryId": "2506000005",
+          "superCategoryName": "조명",
+          "categoryId": "2506000032",
+          "categoryName": "천장·팬던트조명",
+          "subCategoryId": "2506000177",
+          "subCategoryName": "팬던트조명"
+        },
+        "isOnlyIcon": false,
+        "boSalePrice": 135000,
+        "priceValidEndDate": "2099-12-31 23:59:59"
+      }
+    },
+    "space": {
+      "timestamp": "2026-07-20T16:23:35.1679705",
+      "status": 404,
+      "message": "Not Found",
+      "data": null
+    },
+    "packs": {
+      "timestamp": "2026-07-20T16:23:35.1657590",
+      "status": 404,
+      "message": "Not Found",
+      "data": null
+    }
+  },
+  {
+    "id": "G25070006112",
+    "goodsStatus": 200,
+    "spaceStatus": 404,
+    "packsStatus": 404,
+    "goods": {
+      "timestamp": "2026-07-20T16:23:35.5293908",
+      "status": 200,
+      "message": "OK",
+      "data": {
+        "images": [
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "1",
+            "dclYn": false,
+            "imageUrl": "/goods/org/777250729000030777.jpg?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "마르코 사진액자 3*3인치_골드 메인이미지 1"
+          },
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "2",
+            "dclYn": false,
+            "imageUrl": "/goods/org/778250729000030778.jpg?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "마르코 사진액자 3*3인치_골드 메인이미지 2"
+          },
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "3",
+            "dclYn": false,
+            "imageUrl": "/goods/org/779250729000030779.jpg?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "마르코 사진액자 3*3인치_골드 메인이미지 3"
+          },
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "4",
+            "dclYn": false,
+            "imageUrl": "/goods/org/780250729000030780.jpg?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "마르코 사진액자 3*3인치_골드 메인이미지 4"
+          },
+          {
+            "thumbnailUrl": null,
+            "type": "IMAGE",
+            "youtubeUrl": null,
+            "imageUrls": null,
+            "sortSeq": "5",
+            "dclYn": false,
+            "imageUrl": "/goods/org/407260423000204407.jpg?aw=1&ah=1&rw=800&rh=800",
+            "imageAlt": "마르코 사진액자 3*3인치_골드 메인이미지 5"
+          }
+        ],
+        "timeSale": null,
+        "priceTooltip": null,
+        "priceMainTooltip": null,
+        "priceSubTooltip": null,
+        "ordApplyStartDate": null,
+        "ordApplyEndDate": null,
+        "purchaseOptions": [
+          {
+            "items": [
+              {
+                "name": "단일옵션",
+                "imageUrl": null
+              }
+            ],
+            "title": "단일옵션"
+          }
+        ],
+        "purchaseOptionsPrice": [
+          {
+            "name": "단일옵션",
+            "minSalePrice": 12000,
+            "maxSalePrice": 0
+          }
+        ],
+        "productStock": [
+          {
+            "salePrice": 12000,
+            "discountPrice": 0,
+            "optionId": "10001",
+            "optionName": "단일옵션",
+            "stock": "426",
+            "estimatedDeliveryDateComment": "",
+            "estimatedDeliveryDateOptionComment": ""
+          }
+        ],
+        "deliveryInfo": {
+          "tooltip": "제공업체, 택배사 사정으로 실제 도착일은 예측과 다를 수 있습니다. \n주말, 공휴일을 제외한 영업일(평일) 기준입니다.",
+          "hasRegionalAdditionalFee": false,
+          "hasRegionalAdditionalTxt": null,
+          "deliveryDivComment": null,
+          "parcelCommCd": "12",
+          "deliveryDiviCd": "10",
+          "typeDescription": "택배배송",
+          "estimatedDeliveryDateComment": "07/24(금) 이내 도착 예정",
+          "reservationDeadlineComment": null,
+          "notice": "",
+          "fee": "3,000원 (주문시 결제)",
+          "deliveryReadTimeCode": "",
+          "reservationDescription": "",
+          "hasInstallationFee": false,
+          "hasInstallationTxt": null,
+          "additionalFee": null,
+          "additionalInfo": "3만원 이상 무료배송"
+        },
+        "officialStore": null,
+        "popularProducts": [
+          {
+            "salePossQty": "9999999",
+            "stockMgmtYn": "N",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G26010032126",
+            "productName": "김길상, 휴식 Ⅶ, 인테리어 그림 액자",
+            "status": "40",
+            "imageUrl": "/goods/org/077/260116000150077.jpg",
+            "imageAlt": null,
+            "brandId": "2600000773",
+            "brandName": "그림닷컴",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 122000,
+              "immediateTitle": null,
+              "immediateDiscountPrice": 0,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 122000,
+              "originalPrice": 122000,
+              "currentPrice": 122000,
+              "discountRate": 0
+            },
+            "dispCtgNo": "2506000040",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "9999999",
+            "stockMgmtYn": "N",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G26010032328",
+            "productName": "김경희, 달항아리 평안한 밤, 민화 인테리어 복 그림 액자",
+            "status": "40",
+            "imageUrl": "/goods/org/473/260124000155473.jpg",
+            "imageAlt": null,
+            "brandId": "2600000773",
+            "brandName": "그림닷컴",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 144600,
+              "immediateTitle": null,
+              "immediateDiscountPrice": 0,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 144600,
+              "originalPrice": 144600,
+              "currentPrice": 144600,
+              "discountRate": 0
+            },
+            "dispCtgNo": "2506000040",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "9999999",
+            "stockMgmtYn": "N",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G26010032058",
+            "productName": "이우환, From Line_선으로부터 (M), 인테리어 그림 액자",
+            "status": "40",
+            "imageUrl": "/goods/org/861/260116000149861.jpg",
+            "imageAlt": null,
+            "brandId": "2600000773",
+            "brandName": "그림닷컴",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 182900,
+              "immediateTitle": null,
+              "immediateDiscountPrice": 0,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 182900,
+              "originalPrice": 182900,
+              "currentPrice": 182900,
+              "discountRate": 0
+            },
+            "dispCtgNo": "2506000040",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "9999999",
+            "stockMgmtYn": "N",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G26010032156",
+            "productName": "김경희, 달항아리 풍요, 민화 인테리어 복 그림 액자",
+            "status": "40",
+            "imageUrl": "/goods/org/557/260119000150557.jpg",
+            "imageAlt": null,
+            "brandId": "2600000773",
+            "brandName": "그림닷컴",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 144600,
+              "immediateTitle": null,
+              "immediateDiscountPrice": 0,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 144600,
+              "originalPrice": 144600,
+              "currentPrice": 144600,
+              "discountRate": 0
+            },
+            "dispCtgNo": "2506000040",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "9999999",
+            "stockMgmtYn": "N",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G26040040698",
+            "productName": "최성희, 호흡, 인테리어 그림 액자",
+            "status": "40",
+            "imageUrl": "/goods/org/479/260430000217479.png",
+            "imageAlt": null,
+            "brandId": "2600000773",
+            "brandName": "그림닷컴",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 147500,
+              "immediateTitle": null,
+              "immediateDiscountPrice": 0,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 147500,
+              "originalPrice": 147500,
+              "currentPrice": 147500,
+              "discountRate": 0
+            },
+            "dispCtgNo": "2506000040",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "9999999",
+            "stockMgmtYn": "N",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G26040040696",
+            "productName": "최성희, 무한함, 인테리어 그림 액자",
+            "status": "40",
+            "imageUrl": "/goods/org/769/260504000217769.png",
+            "imageAlt": null,
+            "brandId": "2600000773",
+            "brandName": "그림닷컴",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 147500,
+              "immediateTitle": null,
+              "immediateDiscountPrice": 0,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 147500,
+              "originalPrice": 147500,
+              "currentPrice": 147500,
+              "discountRate": 0
+            },
+            "dispCtgNo": "2506000040",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "9999999",
+            "stockMgmtYn": "N",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": true
+            },
+            "productId": "G26040040695",
+            "productName": "최성희, 침묵이 아닌 도전과 에너지, 인테리어 그림 액자",
+            "status": "40",
+            "imageUrl": "/goods/org/484/260430000217484.png",
+            "imageAlt": null,
+            "brandId": "2600000773",
+            "brandName": "그림닷컴",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 147500,
+              "immediateTitle": null,
+              "immediateDiscountPrice": 0,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": null,
+              "cardDiscountPrice": 0,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 147500,
+              "originalPrice": 147500,
+              "currentPrice": 147500,
+              "discountRate": 0
+            },
+            "dispCtgNo": "2506000040",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "6",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": false
+            },
+            "productId": "G26020034026",
+            "productName": "유영국 / 산 1982 (100 Editions) 판화 그림",
+            "status": "40",
+            "imageUrl": "/goods/org/358/260226000170358.jpg",
+            "imageAlt": null,
+            "brandId": "2600000774",
+            "brandName": "아트앤에디션",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 709000,
+              "immediateTitle": null,
+              "immediateDiscountPrice": 0,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": "결제일할인 8%",
+              "cardDiscountPrice": 56700,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 652300,
+              "originalPrice": 709000,
+              "currentPrice": 709000,
+              "discountRate": 0
+            },
+            "dispCtgNo": "2506000040",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "6",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": false
+            },
+            "productId": "G26020034034",
+            "productName": "김순철 / About Wish 2344 (75 Editions) 판화 그림",
+            "status": "40",
+            "imageUrl": "/goods/org/374/260226000170374.jpg",
+            "imageAlt": null,
+            "brandId": "2600000774",
+            "brandName": "아트앤에디션",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 1187000,
+              "immediateTitle": null,
+              "immediateDiscountPrice": 0,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": "결제일할인 8%",
+              "cardDiscountPrice": 94900,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 1092100,
+              "originalPrice": 1187000,
+              "currentPrice": 1187000,
+              "discountRate": 0
+            },
+            "dispCtgNo": "2506000040",
+            "isOnlyIcon": false
+          },
+          {
+            "salePossQty": "5",
+            "stockMgmtYn": "Y",
+            "score": 0,
+            "reviewCount": 0,
+            "deliveryInfo": {
+              "fee": "무료배송",
+              "hasInstallationFee": false,
+              "hasRegionalAdditionalFee": false
+            },
+            "productId": "G26020034025",
+            "productName": "유영국 / 일월도 1975 (100 Editions) 판화 그림",
+            "status": "40",
+            "imageUrl": "/goods/org/356/260226000170356.jpg",
+            "imageAlt": null,
+            "brandId": "2600000774",
+            "brandName": "아트앤에디션",
+            "isTimeSale": false,
+            "hasCoupon": false,
+            "isCmbnDc": false,
+            "deliveryReadTimeCode": null,
+            "isWish": false,
+            "wishId": null,
+            "price": {
+              "discountPrice": 709000,
+              "immediateTitle": null,
+              "immediateDiscountPrice": 0,
+              "couponTitle": null,
+              "couponDiscountPrice": 0,
+              "employeeTitle": null,
+              "employeeDiscountPrice": 0,
+              "employeeCouponTitle": null,
+              "employeeCouponDiscountPrice": 0,
+              "welfareCouponTitle": null,
+              "welfareCouponDiscountPrice": 0,
+              "cardTitle": "결제일할인 8%",
+              "cardDiscountPrice": 56700,
+              "cpnBuyMaxQty": 0,
+              "bestPrice": 652300,
+              "originalPrice": 709000,
+              "currentPrice": 709000,
+              "discountRate": 0
+            },
+            "dispCtgNo": "2506000040",
+            "isOnlyIcon": false
+          }
+        ],
+        "goodsCombinationDcInfo": null,
+        "productId": "G25070006112",
+        "productName": "마르코 사진액자 3*3인치_골드",
+        "brandId": "2500000123",
+        "brandName": "까사미아",
+        "status": "ON_SALE",
+        "wishId": null,
+        "isWish": false,
+        "reviewCount": 0,
+        "score": 0,
+        "maxPurchaseQuantity": 0,
+        "minPurchaseQuantity": 1,
+        "ordPossType": "",
+        "registeredDate": "2025-07-29 13:45:15.084093",
+        "stock": 426,
+        "nomemberPurchaseYn": true,
+        "couponStatus": null,
+        "detailInfo": "<p><img src='https://image.guud.com/mall/editor/images/2022/04/01/edt_20220401105416052001/4C2B64C65778417B92EBD087B4BE234D.jpg'/></p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p><img src='https://image.guud.com/mall/editor/images/2022/04/01/edt_20220401105427052001/53BFE281C06B46568C19751EAA579E88.jpg'/></p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p><img src='https://image.guud.com/mall/editor/images/2022/04/01/edt_20220401105438052001/E1367CF1124647C997D9DCBF77D7505C.jpg'/></p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p><img src='https://image.guud.com/mall/editor/images/2022/04/01/edt_20220401105451052001/6B6A80A46932457C97BFC51B69DBD12A.jpg'/></p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p><img src='https://image.guud.com/mall/editor/images/2022/04/01/edt_20220401105501052001/AB9753E517314E52861BC37F11C4035D.jpg'/></p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><table border='0' cellpadding='0' cellspacing='0' style='width:785px;border-width:0px;border-style:initial;border-color:initial;'><tbody><tr data-role='resizable' style='box-sizing:border-box;'><th data-role='resizable' scope='row' style='padding:10px 20px;border:1px solid rgb(210, 210, 210);text-align:left;font-size:14px;line-height:22px;width:118px;'>상품특징</th><td style='padding:10px 20px;border-style:solid;border-color:#d2d2d2;font-size:14px;line-height:22px;width:667px;'><p><strong> </strong></p><p>- 라틴 느낌의 포인트 액자입니다.</p><p>- 은은한 골드와 아이보리 블랙 두가지 컬러로 바잉했으며, 우드 협탁 또는 수납장 위에 잘 어울리는 디자인과 소재입니다.</p></td></tr><tr style='box-sizing:border-box;'><th data-role='resizable' scope='row' style='padding:10px 20px;border:1px solid rgb(210, 210, 210);text-align:left;font-size:14px;line-height:22px;width:118px;'>주의사항</th><td style='padding:10px 20px;border-style:solid;border-color:#d2d2d2;font-size:14px;line-height:22px;width:667px;'><p>- 용도 외 사용을 금해주세요.</p><p>- 날카로운 물체로 인한 긁힘이나 외부 충격에 유의해주십시오.</p><p>- 재는 방식에 따라 약간의 사이즈 오차가 있을 수 있습니다.</p><p>- 모니터 환경에 따라 보이는 것과 색상의 차이가 있을 수 있으며, 이는 반품 사유가 되지 않습니다.</p><p>- 사용자 부주의로 인한 제품 파손은 교환, 반품이 불가합니다.</p></td></tr></tbody></table>",
+        "isDetailHtmlUploaded": true,
+        "summaryInfo": null,
+        "serviceGuide": "<h2>반품/교환 사유에 따른 요청 가능 기간</h2>\r\n\r\n<ol>\r\n\t<li>구매자 단순 변심은 상품 수령 후 7일 이내&nbsp;<small>(구매자 반품배송비 부담)</small></li>\r\n\t<li>특정브랜드의 상품설명에 별도로 기입된 교환 / 환불 / AS 기준이 우선합니다.</li>\r\n\t<li>표시/광고와 상이, 계약내용과 다르게 이행된 경우 상품 수령 후 3개월 이내, 그 사실을 안 날 또는 알 수 있었던 날로부터 30일 이내.<br />\r\n\t둘 중 하나 경과 시 반품/교환 불가&nbsp;<small>(판매자 반품배송비 부담)</small></li>\r\n</ol>\r\n\r\n<h2>반품/교환 불가능 사유</h2>\r\n\r\n<p>아래와 같은 경우 반품/교환이 불가능합니다.</p>\r\n\r\n<ol>\r\n\t<li>반품요청기간이 지난 경우</li>\r\n\t<li>고객님이 이상 여부를 확인한 후 설치가 완료된 상품의 경우 (가구 등)</li>\r\n\t<li>구매자의 책임 있는 사유로 상품 등이 멸실 또는 훼손된 경우&nbsp;<small>(단, 상품의 내용을 확인하기 위하여 포장 등을 훼손한 경우는 제외)</small></li>\r\n\t<li>포장을 개봉하였으나 포장이 훼손되어 상품가치가 현저히 상실된 경우&nbsp;</li>\r\n\t<li>구매자의 사용 또는 일부 소비에 의하여 상품의 가치가 현저히 감소한 경우&nbsp;</li>\r\n\t<li>시간의 경과에 의하여 재판매가 곤란할 정도로 상품 등의 가치가 현저히 감소한 경우&nbsp;</li>\r\n\t<li>고객주문 확인 후 상품제작에 들어가는 주문제작상품</li>\r\n\t<li>복제가 가능한 상품 등의 포장을 훼손한 경우&nbsp;<small>(CD/DVD/GAME/도서의 경우 포장 개봉 시)</small></li>\r\n</ol>\r\n\r\n<p><br />\r\n이외, 배송/반품/교환/AS 관련 정책은 상품별로 상이할 수 있으므로, 자세한 내용은 상품 상세정보를 확인해 주세요.</p>\r\n",
+        "productNotification": {
+          "items": [
+            {
+              "title": "품명 및 모델명",
+              "description": "마르코 사진액자 3*3인치_골드"
+            },
+            {
+              "title": "법에 의한 인증, 허가 등을 받았음을 확인 할 수 있는 경우 그에 대한 사항",
+              "description": "상세페이지 참조"
+            },
+            {
+              "title": "제조국 또는 원산지",
+              "description": "중국"
+            },
+            {
+              "title": "제조자, 수입품의 경우 수입자를 함께 표기",
+              "description": "까사미아OEM"
+            },
+            {
+              "title": "A/S 책임자와 전화번호 또는 소비자상담 관련 전화번호",
+              "description": "까사미아 고객센터 1588-3408"
+            }
+          ],
+          "safetyInfo": null
+        },
+        "sellerInfo": {
+          "address": "(04529) 서울특별시 중구 남대문시장10길 2 (회현동1가) 5층",
+          "sellerId": "V250000167",
+          "sellerName": "(주)신세계까사",
+          "contact": "02-1588-3408",
+          "description": null,
+          "representative": "김흥국",
+          "email": "yunej@shinsegae.com",
+          "businessRegistrationNumber": "1208111794",
+          "onlineBusinessRegistrationNumber": "2021-서울중구-1960"
+        },
+        "category": {
+          "superCategoryId": "2506000006",
+          "superCategoryName": "인테리어소품",
+          "categoryId": "2506000040",
+          "categoryName": "갤러리·월데코",
+          "subCategoryId": "2506000213",
+          "subCategoryName": "액자"
+        },
+        "isOnlyIcon": false,
+        "boSalePrice": 12000,
+        "priceValidEndDate": "3999-12-31 23:59:59"
+      }
+    },
+    "space": {
+      "timestamp": "2026-07-20T16:23:35.4208561",
+      "status": 404,
+      "message": "Not Found",
+      "data": null
+    },
+    "packs": {
+      "timestamp": "2026-07-20T16:23:35.4592688",
+      "status": 404,
+      "message": "Not Found",
+      "data": null
+    }
+  }
+]

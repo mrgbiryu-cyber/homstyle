@@ -1,0 +1,46 @@
+{
+  "database": "C:\\Users\\A85378\\Desktop\\project\\homestyle\\homestyle_bulk_run\\homestyle_bulk.sqlite",
+  "table": "stg_dimension_ocr_review_wide",
+  "snapshot_id": "2026-07-23T093215_+0900",
+  "assessed_at": "2026-07-23T09:32:15+09:00",
+  "rows": 5206,
+  "ocr_candidate_products": 318,
+  "raw_ocr_token_products": 2154,
+  "human_review_information_products": 2751,
+  "remaining_without_current_axis_or_raw_ocr_token": 2455,
+  "remaining_without_complete_ocr_candidate": 4888,
+  "ocr_candidate_coverage_rate": 0.06108336534767576,
+  "candidate_count_distribution": {
+    "0": 4888,
+    "1": 172,
+    "2": 81,
+    "3": 34,
+    "4": 16,
+    "5": 9,
+    "6": 4,
+    "8": 1,
+    "10": 1
+  },
+  "max_candidate_column_groups": 10,
+  "max_raw_token_column_groups": 40,
+  "columns_per_candidate": [
+    "W_mm",
+    "D_mm",
+    "H_mm",
+    "source_type",
+    "image_url",
+    "evidence_text"
+  ],
+  "overflow_products": 0,
+  "raw_token_overflow_products": 0,
+  "classification_counts": {
+    "NO_INFORMATION": 2455,
+    "UNCLASSIFIED_OCR_VALUES": 907,
+    "CURRENT_PARTIAL_ONLY": 597,
+    "PARTIAL_AXES": 504,
+    "SIZE_LABEL_UNIT_MISSING": 425,
+    "COMPLETE_WDH_CANDIDATE": 318
+  },
+  "semantic_filtering": false,
+  "excel_written": false
+}

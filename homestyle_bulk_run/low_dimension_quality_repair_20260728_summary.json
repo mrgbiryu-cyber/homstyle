@@ -1,0 +1,110 @@
+{
+  "run_name": "low_dimension_quality_repair_20260728",
+  "audited_at": "2026-07-28T16:04:31+09:00",
+  "threshold_mm": 20.0,
+  "before_low_value_products": 16,
+  "audit_status_counts": {
+    "INVALID_LOW_DIMENSION_CORRECTED": 5,
+    "VALID_THIN_DIMENSION_EVIDENCE_CONFIRMED": 11
+  },
+  "repaired_count": 5,
+  "repaired": [
+    {
+      "product_id": "G25070001578",
+      "old": [
+        900.0,
+        12.0,
+        2300.0
+      ],
+      "new": [
+        3065,
+        1200,
+        970
+      ],
+      "option_count": 1,
+      "reason": "알로소 공통 배송 이미지의 엘리베이터 규격 W900×D1200×H2300을 제품 규격으로 잘못 확정"
+    },
+    {
+      "product_id": "G25090018467",
+      "old": [
+        900.0,
+        12.0,
+        2300.0
+      ],
+      "new": [
+        2770,
+        1100,
+        605
+      ],
+      "option_count": 1,
+      "reason": "알로소 공통 배송 이미지의 엘리베이터 규격 W900×D1200×H2300을 제품 규격으로 잘못 확정"
+    },
+    {
+      "product_id": "G25120029838",
+      "old": [
+        210.0,
+        261.0,
+        19.0
+      ],
+      "new": [
+        140,
+        140,
+        140
+      ],
+      "option_count": 1,
+      "reason": "API 상품정보고시의 210×261×19mm는 상품 상세 HTML의 동일 모델 규격과 충돌하며, 상세 HTML에 노블우드휴지케이스(소) 14×14×14cm가 명시됨"
+    },
+    {
+      "product_id": "G26010030486",
+      "old": [
+        900.0,
+        12.0,
+        2300.0
+      ],
+      "new": [
+        330,
+        475,
+        660
+      ],
+      "option_count": 2,
+      "reason": "알로소 공통 배송 이미지의 엘리베이터 규격 W900×D1200×H2300을 제품 규격으로 잘못 확정; 실제 상품은 S/M 복수 규격"
+    },
+    {
+      "product_id": "G26020033019",
+      "old": [
+        900.0,
+        12.0,
+        2300.0
+      ],
+      "new": [
+        1133,
+        900,
+        300
+      ],
+      "option_count": 1,
+      "reason": "알로소 공통 배송 이미지의 엘리베이터 규격 W900×D1200×H2300을 제품 규격으로 잘못 확정"
+    }
+  ],
+  "after_low_value_products": 11,
+  "after_low_value_product_ids": [
+    "G25070000617",
+    "G25070001390",
+    "G25070001396",
+    "G25070002832",
+    "G25080009387",
+    "G25100021623",
+    "G25120029829",
+    "G26020033434",
+    "G26030035994",
+    "G26070046697",
+    "G26070046698"
+  ],
+  "resolution_status_counts": {
+    "COMPARISON_PROVIDED": 3411,
+    "MANUAL_CONFIRMED": 21,
+    "NO_CANDIDATE": 234,
+    "RULE_RESOLVED": 1560,
+    "SOURCE_CONFIRMED": 4132
+  },
+  "policy": "W/D/H 중 하나라도 20mm 이하이면 자동완료 금지. 액자·러그·거울·옷걸이·벽선반 등 박형 제품은 명시적 제품 규격 근거가 있을 때만 예외 유지."
+}

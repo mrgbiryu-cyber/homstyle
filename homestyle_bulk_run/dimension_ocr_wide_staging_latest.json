@@ -1,0 +1,33 @@
+{
+  "database": "C:\\Users\\A85378\\Desktop\\project\\homestyle\\homestyle_bulk_run\\homestyle_bulk.sqlite",
+  "table": "stg_dimension_ocr_wide",
+  "snapshot_id": "2026-07-23T091321_+0900",
+  "assessed_at": "2026-07-23T09:13:21+09:00",
+  "rows": 5206,
+  "ocr_candidate_products": 317,
+  "remaining_without_complete_ocr_candidate": 4889,
+  "ocr_candidate_coverage_rate": 0.06089127929312332,
+  "candidate_count_distribution": {
+    "0": 4889,
+    "1": 171,
+    "2": 81,
+    "3": 34,
+    "4": 16,
+    "5": 9,
+    "6": 4,
+    "8": 1,
+    "10": 1
+  },
+  "max_candidate_column_groups": 10,
+  "columns_per_candidate": [
+    "W_mm",
+    "D_mm",
+    "H_mm",
+    "source_type",
+    "image_url",
+    "evidence_text"
+  ],
+  "overflow_products": 0,
+  "semantic_filtering": false,
+  "excel_written": false
+}

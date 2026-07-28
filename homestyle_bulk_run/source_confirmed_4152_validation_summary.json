@@ -1,0 +1,48 @@
+{
+  "assessed_at": "2026-07-28T16:14:56+09:00",
+  "database": "C:\\Users\\A85378\\Desktop\\project\\homestyle\\homestyle_bulk_run\\homestyle_bulk.sqlite",
+  "output": "C:\\Users\\A85378\\Desktop\\project\\homestyle\\홈스타일_기존확정값_4152개_RAW증빙_상품명문맥재검증_비정상값16건보정_20mm이하5건추가보정.xlsx",
+  "target_resolution_status": "SOURCE_CONFIRMED + 수기보정(원 SOURCE_CONFIRMED) 20건",
+  "target_products": 4152,
+  "validation_status_counts": {
+    "자동검증_PASS": 3922,
+    "수기검증_위험문맥": 56,
+    "수기검증_상품명근거약함": 113,
+    "수기검증_다른후보우선": 61
+  },
+  "proof_grade_counts": {
+    "구조화API규격": 3686,
+    "원천숫자일치": 230,
+    "제품규격문맥": 175,
+    "수기원본검증": 20,
+    "상품명직접일치": 41
+  },
+  "warning_product_counts": {
+    "배송·반입 규격 후보": 16,
+    "배송·포장 문맥 포함": 38,
+    "구성품 문맥 포함": 45,
+    "구성품 규격 후보": 8,
+    "다른 모델·라인업 규격 후보": 1,
+    "오차 문맥 포함": 1
+  },
+  "source_product_counts": {
+    "API": 3756,
+    "OCR": 379,
+    "HTML": 101
+  },
+  "source_raw_counts": {
+    "API": 3857,
+    "OCR": 534,
+    "HTML": 492
+  },
+  "direct_signal_product_counts": {
+    "구조화 API 크기필드": 3728,
+    "제품 유형": 587,
+    "상품명 숫자": 912,
+    "제품 규격 문맥": 300,
+    "옵션 코드": 3,
+    "모델 코드": 1
+  },
+  "raw_evidence_rows": 4883,
+  "database_mutated": false
+}

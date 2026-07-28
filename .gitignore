@@ -1,0 +1,49 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv*/
+
+# Editor and local automation state
+.vscode/
+.playwright-mcp/
+.tools/
+
+# Temporary Office lock files
+~$*
+
+# Runtime logs
+*.log
+*.stdout.log
+*.stderr.log
+
+# Large intermediate OCR/research artifacts
+poc_full_run/
+pptx_finalcheck_*/
+pptx_render_*/
+ppt_render_*/
+ppt_assets_*/
+ppt_customer_preview_*/
+
+# Generated HTML is reproducible from the Markdown source.
+html_output/
+
+# Binary reports and historical spreadsheet outputs are generated artifacts.
+*.xlsx
+*.xlsx.pia
+*.pptx
+*.pdf
+*.pia
+
+# Keep the canonical SQLite DB and compact run summaries only.
+homestyle_bulk_run/*
+!homestyle_bulk_run/homestyle_bulk.sqlite
+!homestyle_bulk_run/*_summary.json
+!homestyle_bulk_run/*_latest.json
+!homestyle_bulk_run/mandatory_pass_baseline_0715.json
+
+# SQLite transient files
+*.sqlite-shm
+*.sqlite-wal
+*.sqlite-journal
+
