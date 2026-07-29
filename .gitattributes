@@ -1,4 +1,0 @@
-homestyle_bulk_run/homestyle_bulk.sqlite filter=lfs diff=lfs merge=lfs -text
-*.xlsx filter=lfs diff=lfs merge=lfs -text
-*.xlsm filter=lfs diff=lfs merge=lfs -text
-*.splite filter=lfs diff=lfs merge=lfs -text
