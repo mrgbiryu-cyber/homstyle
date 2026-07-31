@@ -29,6 +29,7 @@ ppt_customer_preview_*/
 html_output/
 
 # Binary reports and historical spreadsheet outputs are generated artifacts.
+*.xlsx.pia
 *.pdf
 *.pia
 
